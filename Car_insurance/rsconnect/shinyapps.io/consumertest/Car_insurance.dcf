@@ -1,0 +1,13 @@
+name: Car_insurance
+title: Car_insurance
+username:
+account: consumertest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 737503
+bundleId: 1897082
+url: https://consumertest.shinyapps.io/Car_insurance/
+when: 1551066234.64023
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: XSLX files/comprehensive.xlsx|XSLX files/third.xlsx|XSLX files/thirdFire.xlsx

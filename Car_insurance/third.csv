@@ -1,0 +1,601 @@
+Age,City,Gender,Policy,Excess,Value,Premium
+Young,Auckland,Men,AA Insurance Third Party Car Insurance,1050,-,23.72
+Young,Auckland,Men,AMI Insurance Third Party Car Insurance ,650,-,16.5
+Young,Auckland,Men,AMP Third Party Property Damage Car Insurance,1000,-,29.15
+Young,Auckland,Men,ASB Bank Car Insurance Third Party Only,750,-,26.48
+Young,Auckland,Men,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,20.56
+Young,Auckland,Men,FMG Essential Private Vehicles Third Party Only,900,-,21.88
+Young,Auckland,Men,Lantern Insurance Echelon Third Party Only,1000,-,25.16
+Young,Auckland,Men,MAS Insurance Motor Vehicle Third Party Only,750,-,25.85
+Young,Auckland,Men,State Insurance Car Third Party Only,850,-,19.44
+Young,Auckland,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,18.43
+Young,Auckland,Men,Tower Third Party Car,1000,-,30.48
+Young,Auckland,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,17.34
+Young,Auckland,Men,Warehouse Money Third Party Property Damage Car Insurance,1000,-,24.48
+Young,Auckland,Men,Westpac Car Insurance Third Party Only,850,-,26.22
+Young,Auckland,Men,Youi Car Third Party Property Only,1800,-,31.71
+Young,Hamilton,Men,AA Insurance Third Party Car Insurance,1050,-,15.99
+Young,Hamilton,Men,AMI Insurance Third Party Car Insurance ,650,-,13.25
+Young,Hamilton,Men,AMP Third Party Property Damage Car Insurance,1000,-,22.4
+Young,Hamilton,Men,ASB Bank Car Insurance Third Party Only,750,-,21
+Young,Hamilton,Men,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Hamilton,Men,FMG Essential Private Vehicles Third Party Only,900,-,14.79
+Young,Hamilton,Men,Lantern Insurance Echelon Third Party Only,1000,-,17.34
+Young,Hamilton,Men,MAS Insurance Motor Vehicle Third Party Only,750,-,21.94
+Young,Hamilton,Men,State Insurance Car Third Party Only,850,-,15.01
+Young,Hamilton,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Hamilton,Men,Tower Third Party Car,1000,-,20.48
+Young,Hamilton,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,12.72
+Young,Hamilton,Men,Warehouse Money Third Party Property Damage Car Insurance,1000,-,18.81
+Young,Hamilton,Men,Westpac Car Insurance Third Party Only,850,-,22.24
+Young,Hamilton,Men,Youi Car Third Party Property Only,1800,-,24.43
+Young,Wellington,Men,AA Insurance Third Party Car Insurance,1050,-,16.77
+Young,Wellington,Men,AMI Insurance Third Party Car Insurance ,650,-,13.39
+Young,Wellington,Men,AMP Third Party Property Damage Car Insurance,1000,-,22.4
+Young,Wellington,Men,ASB Bank Car Insurance Third Party Only,750,-,19.52
+Young,Wellington,Men,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Wellington,Men,FMG Essential Private Vehicles Third Party Only,900,-,17.16
+Young,Wellington,Men,Lantern Insurance Echelon Third Party Only,1000,-,17.34
+Young,Wellington,Men,MAS Insurance Motor Vehicle Third Party Only,750,-,19.5
+Young,Wellington,Men,State Insurance Car Third Party Only,850,-,16.39
+Young,Wellington,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Wellington,Men,Tower Third Party Car,1000,-,21.18
+Young,Wellington,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,12.25
+Young,Wellington,Men,Warehouse Money Third Party Property Damage Car Insurance,1000,-,18.81
+Young,Wellington,Men,Westpac Car Insurance Third Party Only,850,-,23.01
+Young,Wellington,Men,Youi Car Third Party Property Only,1800,-,21.69
+Young,Christchurch,Men,AA Insurance Third Party Car Insurance,1050,-,15.59
+Young,Christchurch,Men,AMI Insurance Third Party Car Insurance ,650,-,12.36
+Young,Christchurch,Men,AMP Third Party Property Damage Car Insurance,1000,-,23.48
+Young,Christchurch,Men,ASB Bank Car Insurance Third Party Only,750,-,17.12
+Young,Christchurch,Men,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Christchurch,Men,FMG Essential Private Vehicles Third Party Only,900,-,18.71
+Young,Christchurch,Men,Lantern Insurance Echelon Third Party Only,1000,-,17.34
+Young,Christchurch,Men,MAS Insurance Motor Vehicle Third Party Only,750,-,20.22
+Young,Christchurch,Men,State Insurance Car Third Party Only,850,-,15.01
+Young,Christchurch,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Christchurch,Men,Tower Third Party Car,1000,-,23.27
+Young,Christchurch,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,12.02
+Young,Christchurch,Men,Warehouse Money Third Party Property Damage Car Insurance,1000,-,19.72
+Young,Christchurch,Men,Westpac Car Insurance Third Party Only,850,-,18.05
+Young,Christchurch,Men,Youi Car Third Party Property Only,1800,-,32.02
+Young,Dunedin,Men,AA Insurance Third Party Car Insurance,1050,-,14.82
+Young,Dunedin,Men,AMI Insurance Third Party Car Insurance ,650,-,11.76
+Young,Dunedin,Men,AMP Third Party Property Damage Car Insurance,1000,-,21.32
+Young,Dunedin,Men,ASB Bank Car Insurance Third Party Only,750,-,17.12
+Young,Dunedin,Men,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Dunedin,Men,FMG Essential Private Vehicles Third Party Only,900,-,15.08
+Young,Dunedin,Men,Lantern Insurance Echelon Third Party Only,1000,-,17.34
+Young,Dunedin,Men,MAS Insurance Motor Vehicle Third Party Only,750,-,18.63
+Young,Dunedin,Men,State Insurance Car Third Party Only,850,-,13.7
+Young,Dunedin,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Dunedin,Men,Tower Third Party Car,1000,-,22.34
+Young,Dunedin,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,12.25
+Young,Dunedin,Men,Warehouse Money Third Party Property Damage Car Insurance,1000,-,17.9
+Young,Dunedin,Men,Westpac Car Insurance Third Party Only,850,-,20.23
+Young,Dunedin,Men,Youi Car Third Party Property Only,1800,-,19.33
+Middle,Auckland,Men,AA Insurance Third Party Car Insurance,500,-,16.53
+Middle,Auckland,Men,AMI Insurance Third Party Car Insurance ,400,-,16.17
+Middle,Auckland,Men,AMP Third Party Property Damage Car Insurance,500,-,17.4
+Middle,Auckland,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Auckland,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Auckland,Men,FMG Essential Private Vehicles Third Party Only,400,-,17.94
+Middle,Auckland,Men,Lantern Insurance Echelon Third Party Only,400,-,16.78
+Middle,Auckland,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,23.27
+Middle,Auckland,Men,State Insurance Car Third Party Only,400,-,16.9
+Middle,Auckland,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Auckland,Men,Tower Third Party Car,500,-,19.86
+Middle,Auckland,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,12.21
+Middle,Auckland,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,14.62
+Middle,Auckland,Men,Westpac Car Insurance Third Party Only,400,-,18.26
+Middle,Auckland,Men,Youi Car Third Party Property Only,600,-,22.01
+Middle,Hamilton,Men,AA Insurance Third Party Car Insurance,500,-,11.15
+Middle,Hamilton,Men,AMI Insurance Third Party Car Insurance ,400,-,12.99
+Middle,Hamilton,Men,AMP Third Party Property Damage Car Insurance,500,-,14.98
+Middle,Hamilton,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Hamilton,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Hamilton,Men,FMG Essential Private Vehicles Third Party Only,400,-,12.13
+Middle,Hamilton,Men,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Middle,Hamilton,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,19.75
+Middle,Hamilton,Men,State Insurance Car Third Party Only,400,-,13.07
+Middle,Hamilton,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Hamilton,Men,Tower Third Party Car,500,-,13.34
+Middle,Hamilton,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.96
+Middle,Hamilton,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.58
+Middle,Hamilton,Men,Westpac Car Insurance Third Party Only,400,-,15.5
+Middle,Hamilton,Men,Youi Car Third Party Property Only,600,-,17.69
+Middle,Wellington,Men,AA Insurance Third Party Car Insurance,500,-,11.68
+Middle,Wellington,Men,AMI Insurance Third Party Car Insurance ,400,-,13.12
+Middle,Wellington,Men,AMP Third Party Property Damage Car Insurance,500,-,14.98
+Middle,Wellington,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Wellington,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Wellington,Men,FMG Essential Private Vehicles Third Party Only,400,-,14.06
+Middle,Wellington,Men,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Middle,Wellington,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,17.55
+Middle,Wellington,Men,State Insurance Car Third Party Only,400,-,14.25
+Middle,Wellington,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Wellington,Men,Tower Third Party Car,500,-,13.8
+Middle,Wellington,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.63
+Middle,Wellington,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.58
+Middle,Wellington,Men,Westpac Car Insurance Third Party Only,400,-,16.03
+Middle,Wellington,Men,Youi Car Third Party Property Only,600,-,15.65
+Middle,Christchurch,Men,AA Insurance Third Party Car Insurance,500,-,10.86
+Middle,Christchurch,Men,AMI Insurance Third Party Car Insurance ,400,-,12.12
+Middle,Christchurch,Men,AMP Third Party Property Damage Car Insurance,500,-,15.38
+Middle,Christchurch,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Christchurch,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Christchurch,Men,FMG Essential Private Vehicles Third Party Only,400,-,15.34
+Middle,Christchurch,Men,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Middle,Christchurch,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,18.2
+Middle,Christchurch,Men,State Insurance Car Third Party Only,400,-,13.07
+Middle,Christchurch,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Christchurch,Men,Tower Third Party Car,500,-,15.16
+Middle,Christchurch,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.47
+Middle,Christchurch,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.92
+Middle,Christchurch,Men,Westpac Car Insurance Third Party Only,400,-,12.59
+Middle,Christchurch,Men,Youi Car Third Party Property Only,600,-,22.22
+Middle,Dunedin,Men,AA Insurance Third Party Car Insurance,500,-,10.33
+Middle,Dunedin,Men,AMI Insurance Third Party Car Insurance ,400,-,11.53
+Middle,Dunedin,Men,AMP Third Party Property Damage Car Insurance,500,-,14.57
+Middle,Dunedin,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Dunedin,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Dunedin,Men,FMG Essential Private Vehicles Third Party Only,400,-,12.36
+Middle,Dunedin,Men,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Middle,Dunedin,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,16.77
+Middle,Dunedin,Men,State Insurance Car Third Party Only,400,-,11.92
+Middle,Dunedin,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Dunedin,Men,Tower Third Party Car,500,-,14.56
+Middle,Dunedin,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.63
+Middle,Dunedin,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.24
+Middle,Dunedin,Men,Westpac Car Insurance Third Party Only,400,-,14.1
+Middle,Dunedin,Men,Youi Car Third Party Property Only,600,-,14.36
+Older,Auckland,Men,AA Insurance Third Party Car Insurance,500,-,16.53
+Older,Auckland,Men,AMI Insurance Third Party Car Insurance ,400,-,16.33
+Older,Auckland,Men,AMP Third Party Property Damage Car Insurance,500,-,17.4
+Older,Auckland,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Auckland,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Auckland,Men,FMG Essential Private Vehicles Third Party Only,400,-,17.94
+Older,Auckland,Men,Lantern Insurance Echelon Third Party Only,400,-,16.78
+Older,Auckland,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,23.27
+Older,Auckland,Men,State Insurance Car Third Party Only,400,-,20.43
+Older,Auckland,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Auckland,Men,Tower Third Party Car,500,-,19.65
+Older,Auckland,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,10.76
+Older,Auckland,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,14.62
+Older,Auckland,Men,Westpac Car Insurance Third Party Only,400,-,17
+Older,Auckland,Men,Youi Car Third Party Property Only,600,-,24.73
+Older,Hamilton,Men,AA Insurance Third Party Car Insurance,500,-,11.15
+Older,Hamilton,Men,AMI Insurance Third Party Car Insurance ,400,-,13.12
+Older,Hamilton,Men,AMP Third Party Property Damage Car Insurance,500,-,14.98
+Older,Hamilton,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Hamilton,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Hamilton,Men,FMG Essential Private Vehicles Third Party Only,400,-,12.13
+Older,Hamilton,Men,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Older,Hamilton,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,19.75
+Older,Hamilton,Men,State Insurance Car Third Party Only,400,-,15.76
+Older,Hamilton,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Hamilton,Men,Tower Third Party Car,500,-,13.2
+Older,Hamilton,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,7.89
+Older,Hamilton,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.58
+Older,Hamilton,Men,Westpac Car Insurance Third Party Only,400,-,14.42
+Older,Hamilton,Men,Youi Car Third Party Property Only,600,-,19.46
+Older,Wellington,Men,AA Insurance Third Party Car Insurance,500,-,11.69
+Older,Wellington,Men,AMI Insurance Third Party Car Insurance ,400,-,13.25
+Older,Wellington,Men,AMP Third Party Property Damage Car Insurance,500,-,14.98
+Older,Wellington,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Wellington,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Wellington,Men,FMG Essential Private Vehicles Third Party Only,400,-,14.06
+Older,Wellington,Men,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Older,Wellington,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,17.55
+Older,Wellington,Men,State Insurance Car Third Party Only,400,-,17.26
+Older,Wellington,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Wellington,Men,Tower Third Party Car,500,-,13.65
+Older,Wellington,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,7.6
+Older,Wellington,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.58
+Older,Wellington,Men,Westpac Car Insurance Third Party Only,400,-,14.93
+Older,Wellington,Men,Youi Car Third Party Property Only,600,-,17.27
+Older,Christchurch,Men,AA Insurance Third Party Car Insurance,500,-,10.87
+Older,Christchurch,Men,AMI Insurance Third Party Car Insurance ,400,-,12.24
+Older,Christchurch,Men,AMP Third Party Property Damage Car Insurance,500,-,15.38
+Older,Christchurch,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Christchurch,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Christchurch,Men,FMG Essential Private Vehicles Third Party Only,400,-,15.34
+Older,Christchurch,Men,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Older,Christchurch,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,18.2
+Older,Christchurch,Men,State Insurance Car Third Party Only,400,-,15.76
+Older,Christchurch,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Christchurch,Men,Tower Third Party Car,500,-,15
+Older,Christchurch,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,7.46
+Older,Christchurch,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.92
+Older,Christchurch,Men,Westpac Car Insurance Third Party Only,400,-,11.97
+Older,Christchurch,Men,Youi Car Third Party Property Only,600,-,25.02
+Older,Dunedin,Men,AA Insurance Third Party Car Insurance,500,-,10.33
+Older,Dunedin,Men,AMI Insurance Third Party Car Insurance ,400,-,11.65
+Older,Dunedin,Men,AMP Third Party Property Damage Car Insurance,500,-,14.57
+Older,Dunedin,Men,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Dunedin,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Dunedin,Men,FMG Essential Private Vehicles Third Party Only,400,-,12.36
+Older,Dunedin,Men,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Older,Dunedin,Men,MAS Insurance Motor Vehicle Third Party Only,500,-,16.77
+Older,Dunedin,Men,State Insurance Car Third Party Only,400,-,14.41
+Older,Dunedin,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Dunedin,Men,Tower Third Party Car,500,-,14.4
+Older,Dunedin,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,7.6
+Older,Dunedin,Men,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.24
+Older,Dunedin,Men,Westpac Car Insurance Third Party Only,400,-,13.41
+Older,Dunedin,Men,Youi Car Third Party Property Only,600,-,15.7
+Family,Auckland,Men,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,20.71
+Family,Auckland,Men,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,16.17
+Family,Auckland,Men,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,17.4
+Family,Auckland,Men,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.87
+Family,Auckland,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,16.61
+Family,Auckland,Men,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,17.94
+Family,Auckland,Men,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,16.78
+Family,Auckland,Men,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,28.44
+Family,Auckland,Men,State Insurance Car Third Party Only,400 (A); 1300 (T),-,20.82
+Family,Auckland,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,15.48
+Family,Auckland,Men,Tower Third Party Car,500 (A); 1250 (T),-,21.97
+Family,Auckland,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,18.22
+Family,Auckland,Men,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,14.62
+Family,Auckland,Men,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,17
+Family,Auckland,Men,Youi Car Third Party Property Only,600 (A); 1800 (T),-,51.63
+Family,Hamilton,Men,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,13.97
+Family,Hamilton,Men,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,12.99
+Family,Hamilton,Men,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,14.98
+Family,Hamilton,Men,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.12
+Family,Hamilton,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,15.81
+Family,Hamilton,Men,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,12.13
+Family,Hamilton,Men,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,8.95
+Family,Hamilton,Men,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,24.14
+Family,Hamilton,Men,State Insurance Car Third Party Only,400 (A); 1300 (T),-,16.07
+Family,Hamilton,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,14.38
+Family,Hamilton,Men,Tower Third Party Car,500 (A); 1250 (T),-,14.76
+Family,Hamilton,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,13.36
+Family,Hamilton,Men,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,12.58
+Family,Hamilton,Men,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,14.42
+Family,Hamilton,Men,Youi Car Third Party Property Only,600 (A); 1800 (T),-,38.18
+Family,Wellington,Men,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,14.64
+Family,Wellington,Men,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,13.12
+Family,Wellington,Men,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,14.98
+Family,Wellington,Men,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.12
+Family,Wellington,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,15.81
+Family,Wellington,Men,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,14.06
+Family,Wellington,Men,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,8.95
+Family,Wellington,Men,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,21.45
+Family,Wellington,Men,State Insurance Car Third Party Only,400 (A); 1300 (T),-,17.58
+Family,Wellington,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,14.38
+Family,Wellington,Men,Tower Third Party Car,500 (A); 1250 (T),-,15.26
+Family,Wellington,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,12.88
+Family,Wellington,Men,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,12.58
+Family,Wellington,Men,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,14.93
+Family,Wellington,Men,Youi Car Third Party Property Only,600 (A); 1800 (T),-,34.14
+Family,Christchurch,Men,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,13.61
+Family,Christchurch,Men,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,12.12
+Family,Christchurch,Men,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,15.38
+Family,Christchurch,Men,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.12
+Family,Christchurch,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,15.81
+Family,Christchurch,Men,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,15.34
+Family,Christchurch,Men,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,8.95
+Family,Christchurch,Men,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,22.24
+Family,Christchurch,Men,State Insurance Car Third Party Only,400 (A); 1300 (T),-,16.07
+Family,Christchurch,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,14.38
+Family,Christchurch,Men,Tower Third Party Car,500 (A); 1250 (T),-,16.77
+Family,Christchurch,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,12.63
+Family,Christchurch,Men,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,12.92
+Family,Christchurch,Men,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,11.97
+Family,Christchurch,Men,Youi Car Third Party Property Only,600 (A); 1800 (T),-,52.21
+Family,Dunedin,Men,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,12.94
+Family,Dunedin,Men,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,11.53
+Family,Dunedin,Men,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,14.57
+Family,Dunedin,Men,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.12
+Family,Dunedin,Men,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,15.81
+Family,Dunedin,Men,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,12.36
+Family,Dunedin,Men,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,8.95
+Family,Dunedin,Men,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,20.5
+Family,Dunedin,Men,State Insurance Car Third Party Only,400 (A); 1300 (T),-,14.69
+Family,Dunedin,Men,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,14.38
+Family,Dunedin,Men,Tower Third Party Car,500 (A); 1250 (T),-,16.1
+Family,Dunedin,Men,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,12.88
+Family,Dunedin,Men,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,12.24
+Family,Dunedin,Men,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,13.41
+Family,Dunedin,Men,Youi Car Third Party Property Only,600 (A); 1800 (T),-,29.46
+Young,Auckland,Women,AA Insurance Third Party Car Insurance,1050,-,21.51
+Young,Auckland,Women,AMI Insurance Third Party Car Insurance ,650,-,16.66
+Young,Auckland,Women,AMP Third Party Property Damage Car Insurance,1000,-,29.15
+Young,Auckland,Women,ASB Bank Car Insurance Third Party Only,750,-,17.61
+Young,Auckland,Women,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Auckland,Women,FMG Essential Private Vehicles Third Party Only,900,-,21.88
+Young,Auckland,Women,Lantern Insurance Echelon Third Party Only,800,-,25.16
+Young,Auckland,Women,MAS Insurance Motor Vehicle Third Party Only,750,-,25.85
+Young,Auckland,Women,State Insurance Car Third Party Only,850,-,19.04
+Young,Auckland,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Auckland,Women,Tower Third Party Car,1000,-,29.65
+Young,Auckland,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,15.39
+Young,Auckland,Women,Warehouse Money Third Party Property Damage Car Insurance,1000,-,24.48
+Young,Auckland,Women,Westpac Car Insurance Third Party Only,850,-,20.08
+Young,Auckland,Women,Youi Car Third Party Property Only,1800,-,27.03
+Young,Hamilton,Women,AA Insurance Third Party Car Insurance,1050,-,14.5
+Young,Hamilton,Women,AMI Insurance Third Party Car Insurance ,650,-,13.39
+Young,Hamilton,Women,AMP Third Party Property Damage Car Insurance,1000,-,22.4
+Young,Hamilton,Women,ASB Bank Car Insurance Third Party Only,750,-,17.12
+Young,Hamilton,Women,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Hamilton,Women,FMG Essential Private Vehicles Third Party Only,900,-,14.79
+Young,Hamilton,Women,Lantern Insurance Echelon Third Party Only,800,-,17.34
+Young,Hamilton,Women,MAS Insurance Motor Vehicle Third Party Only,750,-,21.94
+Young,Hamilton,Women,State Insurance Car Third Party Only,850,-,14.69
+Young,Hamilton,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Hamilton,Women,Tower Third Party Car,1000,-,19.92
+Young,Hamilton,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,11.28
+Young,Hamilton,Women,Warehouse Money Third Party Property Damage Car Insurance,1000,-,18.81
+Young,Hamilton,Women,Westpac Car Insurance Third Party Only,850,-,17.03
+Young,Hamilton,Women,Youi Car Third Party Property Only,1800,-,20.84
+Young,Wellington,Women,AA Insurance Third Party Car Insurance,1050,-,15.21
+Young,Wellington,Women,AMI Insurance Third Party Car Insurance ,650,-,13.52
+Young,Wellington,Women,AMP Third Party Property Damage Car Insurance,1000,-,22.4
+Young,Wellington,Women,ASB Bank Car Insurance Third Party Only,750,-,17.12
+Young,Wellington,Women,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Wellington,Women,FMG Essential Private Vehicles Third Party Only,900,-,17.16
+Young,Wellington,Women,Lantern Insurance Echelon Third Party Only,800,-,17.34
+Young,Wellington,Women,MAS Insurance Motor Vehicle Third Party Only,750,-,19.5
+Young,Wellington,Women,State Insurance Car Third Party Only,850,-,16.07
+Young,Wellington,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Wellington,Women,Tower Third Party Car,1000,-,20.6
+Young,Wellington,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,10.87
+Young,Wellington,Women,Warehouse Money Third Party Property Damage Car Insurance,1000,-,18.81
+Young,Wellington,Women,Westpac Car Insurance Third Party Only,850,-,17.62
+Young,Wellington,Women,Youi Car Third Party Property Only,1800,-,18.53
+Young,Christchurch,Women,AA Insurance Third Party Car Insurance,1050,-,14.14
+Young,Christchurch,Women,AMI Insurance Third Party Car Insurance ,650,-,12.48
+Young,Christchurch,Women,AMP Third Party Property Damage Car Insurance,1000,-,23.48
+Young,Christchurch,Women,ASB Bank Car Insurance Third Party Only,750,-,17.12
+Young,Christchurch,Women,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Christchurch,Women,FMG Essential Private Vehicles Third Party Only,900,-,18.71
+Young,Christchurch,Women,Lantern Insurance Echelon Third Party Only,800,-,17.34
+Young,Christchurch,Women,MAS Insurance Motor Vehicle Third Party Only,750,-,20.22
+Young,Christchurch,Women,State Insurance Car Third Party Only,850,-,14.69
+Young,Christchurch,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Christchurch,Women,Tower Third Party Car,1000,-,22.64
+Young,Christchurch,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,10.67
+Young,Christchurch,Women,Warehouse Money Third Party Property Damage Car Insurance,1000,-,19.72
+Young,Christchurch,Women,Westpac Car Insurance Third Party Only,850,-,13.83
+Young,Christchurch,Women,Youi Car Third Party Property Only,1800,-,27.27
+Young,Dunedin,Women,AA Insurance Third Party Car Insurance,1050,-,13.44
+Young,Dunedin,Women,AMI Insurance Third Party Car Insurance ,650,-,11.88
+Young,Dunedin,Women,AMP Third Party Property Damage Car Insurance,1000,-,21.32
+Young,Dunedin,Women,ASB Bank Car Insurance Third Party Only,750,-,17.12
+Young,Dunedin,Women,BNZ PremierCare Vehicle Insurance Third Party Only,750,-,15.81
+Young,Dunedin,Women,FMG Essential Private Vehicles Third Party Only,900,-,15.08
+Young,Dunedin,Women,Lantern Insurance Echelon Third Party Only,800,-,17.34
+Young,Dunedin,Women,MAS Insurance Motor Vehicle Third Party Only,750,-,18.63
+Young,Dunedin,Women,State Insurance Car Third Party Only,850,-,13.46
+Young,Dunedin,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,750,-,14.38
+Young,Dunedin,Women,Tower Third Party Car,1000,-,21.73
+Young,Dunedin,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,1000,-,10.87
+Young,Dunedin,Women,Warehouse Money Third Party Property Damage Car Insurance,1000,-,17.9
+Young,Dunedin,Women,Westpac Car Insurance Third Party Only,850,-,15.5
+Young,Dunedin,Women,Youi Car Third Party Property Only,1800,-,16.56
+Middle,Auckland,Women,AA Insurance Third Party Car Insurance,500,-,16.36
+Middle,Auckland,Women,AMI Insurance Third Party Car Insurance ,400,-,16.17
+Middle,Auckland,Women,AMP Third Party Property Damage Car Insurance,500,-,17.4
+Middle,Auckland,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Auckland,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Auckland,Women,FMG Essential Private Vehicles Third Party Only,400,-,17.94
+Middle,Auckland,Women,Lantern Insurance Echelon Third Party Only,400,-,16.78
+Middle,Auckland,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,23.27
+Middle,Auckland,Women,State Insurance Car Third Party Only,400,-,16.59
+Middle,Auckland,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Auckland,Women,Tower Third Party Car,500,-,20.56
+Middle,Auckland,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,12.21
+Middle,Auckland,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,14.62
+Middle,Auckland,Women,Westpac Car Insurance Third Party Only,400,-,18.63
+Middle,Auckland,Women,Youi Car Third Party Property Only,600,-,20.91
+Middle,Hamilton,Women,AA Insurance Third Party Car Insurance,500,-,11.03
+Middle,Hamilton,Women,AMI Insurance Third Party Car Insurance ,400,-,12.99
+Middle,Hamilton,Women,AMP Third Party Property Damage Car Insurance,500,-,14.98
+Middle,Hamilton,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Hamilton,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Hamilton,Women,FMG Essential Private Vehicles Third Party Only,400,-,12.13
+Middle,Hamilton,Women,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Middle,Hamilton,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,19.75
+Middle,Hamilton,Women,State Insurance Car Third Party Only,400,-,12.79
+Middle,Hamilton,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Hamilton,Women,Tower Third Party Car,500,-,13.81
+Middle,Hamilton,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.96
+Middle,Hamilton,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.58
+Middle,Hamilton,Women,Westpac Car Insurance Third Party Only,400,-,15.8
+Middle,Hamilton,Women,Youi Car Third Party Property Only,600,-,16.88
+Middle,Wellington,Women,AA Insurance Third Party Car Insurance,500,-,11.57
+Middle,Wellington,Women,AMI Insurance Third Party Car Insurance ,400,-,13.12
+Middle,Wellington,Women,AMP Third Party Property Damage Car Insurance,500,-,14.98
+Middle,Wellington,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Wellington,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Wellington,Women,FMG Essential Private Vehicles Third Party Only,400,-,14.06
+Middle,Wellington,Women,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Middle,Wellington,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,17.55
+Middle,Wellington,Women,State Insurance Car Third Party Only,400,-,13.98
+Middle,Wellington,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Wellington,Women,Tower Third Party Car,500,-,14.28
+Middle,Wellington,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.63
+Middle,Wellington,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.58
+Middle,Wellington,Women,Westpac Car Insurance Third Party Only,400,-,16.35
+Middle,Wellington,Women,Youi Car Third Party Property Only,600,-,14.96
+Middle,Christchurch,Women,AA Insurance Third Party Car Insurance,500,-,10.76
+Middle,Christchurch,Women,AMI Insurance Third Party Car Insurance ,400,-,12.12
+Middle,Christchurch,Women,AMP Third Party Property Damage Car Insurance,500,-,15.38
+Middle,Christchurch,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Christchurch,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Christchurch,Women,FMG Essential Private Vehicles Third Party Only,400,-,15.34
+Middle,Christchurch,Women,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Middle,Christchurch,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,18.2
+Middle,Christchurch,Women,State Insurance Car Third Party Only,400,-,12.79
+Middle,Christchurch,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Christchurch,Women,Tower Third Party Car,500,-,15.7
+Middle,Christchurch,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.47
+Middle,Christchurch,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.92
+Middle,Christchurch,Women,Westpac Car Insurance Third Party Only,400,-,12.85
+Middle,Christchurch,Women,Youi Car Third Party Property Only,600,-,21.15
+Middle,Dunedin,Women,AA Insurance Third Party Car Insurance,500,-,10.23
+Middle,Dunedin,Women,AMI Insurance Third Party Car Insurance ,400,-,11.53
+Middle,Dunedin,Women,AMP Third Party Property Damage Car Insurance,500,-,14.57
+Middle,Dunedin,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Middle,Dunedin,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Middle,Dunedin,Women,FMG Essential Private Vehicles Third Party Only,400,-,12.36
+Middle,Dunedin,Women,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Middle,Dunedin,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,16.77
+Middle,Dunedin,Women,State Insurance Car Third Party Only,400,-,11.68
+Middle,Dunedin,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Middle,Dunedin,Women,Tower Third Party Car,500,-,15.07
+Middle,Dunedin,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.63
+Middle,Dunedin,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.24
+Middle,Dunedin,Women,Westpac Car Insurance Third Party Only,400,-,14.39
+Middle,Dunedin,Women,Youi Car Third Party Property Only,600,-,13.79
+Older,Auckland,Women,AA Insurance Third Party Car Insurance,500,-,16.54
+Older,Auckland,Women,AMI Insurance Third Party Car Insurance ,400,-,16.17
+Older,Auckland,Women,AMP Third Party Property Damage Car Insurance,500,-,17.4
+Older,Auckland,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Auckland,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Auckland,Women,FMG Essential Private Vehicles Third Party Only,400,-,17.94
+Older,Auckland,Women,Lantern Insurance Echelon Third Party Only,400,-,16.78
+Older,Auckland,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,23.27
+Older,Auckland,Women,State Insurance Car Third Party Only,400,-,20.03
+Older,Auckland,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Auckland,Women,Tower Third Party Car,500,-,21.19
+Older,Auckland,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,10.99
+Older,Auckland,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,14.62
+Older,Auckland,Women,Westpac Car Insurance Third Party Only,400,-,17
+Older,Auckland,Women,Youi Car Third Party Property Only,600,-,24.28
+Older,Hamilton,Women,AA Insurance Third Party Car Insurance,500,-,11.15
+Older,Hamilton,Women,AMI Insurance Third Party Car Insurance ,400,-,12.99
+Older,Hamilton,Women,AMP Third Party Property Damage Car Insurance,500,-,14.98
+Older,Hamilton,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Hamilton,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Hamilton,Women,FMG Essential Private Vehicles Third Party Only,400,-,12.13
+Older,Hamilton,Women,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Older,Hamilton,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,19.75
+Older,Hamilton,Women,State Insurance Car Third Party Only,400,-,15.44
+Older,Hamilton,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Hamilton,Women,Tower Third Party Car,500,-,14.23
+Older,Hamilton,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,8.06
+Older,Hamilton,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.58
+Older,Hamilton,Women,Westpac Car Insurance Third Party Only,400,-,14.42
+Older,Hamilton,Women,Youi Car Third Party Property Only,600,-,19.21
+Older,Wellington,Women,AA Insurance Third Party Car Insurance,500,-,11.69
+Older,Wellington,Women,AMI Insurance Third Party Car Insurance ,400,-,13.12
+Older,Wellington,Women,AMP Third Party Property Damage Car Insurance,500,-,14.98
+Older,Wellington,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Wellington,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Wellington,Women,FMG Essential Private Vehicles Third Party Only,400,-,14.06
+Older,Wellington,Women,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Older,Wellington,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,17.55
+Older,Wellington,Women,State Insurance Car Third Party Only,400,-,16.9
+Older,Wellington,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Wellington,Women,Tower Third Party Car,500,-,14.72
+Older,Wellington,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,7.77
+Older,Wellington,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.58
+Older,Wellington,Women,Westpac Car Insurance Third Party Only,400,-,14.93
+Older,Wellington,Women,Youi Car Third Party Property Only,600,-,17.1
+Older,Christchurch,Women,AA Insurance Third Party Car Insurance,500,-,10.87
+Older,Christchurch,Women,AMI Insurance Third Party Car Insurance ,400,-,12.12
+Older,Christchurch,Women,AMP Third Party Property Damage Car Insurance,500,-,15.38
+Older,Christchurch,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Christchurch,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Christchurch,Women,FMG Essential Private Vehicles Third Party Only,400,-,15.34
+Older,Christchurch,Women,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Older,Christchurch,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,18.2
+Older,Christchurch,Women,State Insurance Car Third Party Only,400,-,15.44
+Older,Christchurch,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Christchurch,Women,Tower Third Party Car,500,-,16.17
+Older,Christchurch,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,7.62
+Older,Christchurch,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.92
+Older,Christchurch,Women,Westpac Car Insurance Third Party Only,400,-,11.97
+Older,Christchurch,Women,Youi Car Third Party Property Only,600,-,24.49
+Older,Dunedin,Women,AA Insurance Third Party Car Insurance,500,-,10.34
+Older,Dunedin,Women,AMI Insurance Third Party Car Insurance ,400,-,11.53
+Older,Dunedin,Women,AMP Third Party Property Damage Car Insurance,500,-,14.57
+Older,Dunedin,Women,ASB Bank Car Insurance Third Party Only,400,-,17.12
+Older,Dunedin,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400,-,15.81
+Older,Dunedin,Women,FMG Essential Private Vehicles Third Party Only,400,-,12.36
+Older,Dunedin,Women,Lantern Insurance Echelon Third Party Only,400,-,8.95
+Older,Dunedin,Women,MAS Insurance Motor Vehicle Third Party Only,500,-,16.77
+Older,Dunedin,Women,State Insurance Car Third Party Only,400,-,14.13
+Older,Dunedin,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400,-,14.38
+Older,Dunedin,Women,Tower Third Party Car,500,-,15.53
+Older,Dunedin,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500,-,7.77
+Older,Dunedin,Women,Warehouse Money Third Party Property Damage Car Insurance,500,-,12.24
+Older,Dunedin,Women,Westpac Car Insurance Third Party Only,400,-,13.41
+Older,Dunedin,Women,Youi Car Third Party Property Only,600,-,15.61
+Family,Auckland,Women,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,20.71
+Family,Auckland,Women,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,16.17
+Family,Auckland,Women,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,17.4
+Family,Auckland,Women,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.87
+Family,Auckland,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,16.61
+Family,Auckland,Women,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,17.94
+Family,Auckland,Women,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,16.78
+Family,Auckland,Women,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,28.44
+Family,Auckland,Women,State Insurance Car Third Party Only,400 (A); 1300 (T),-,20.82
+Family,Auckland,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,15.48
+Family,Auckland,Women,Tower Third Party Car,500 (A); 1250 (T),-,21.97
+Family,Auckland,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,18.22
+Family,Auckland,Women,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,14.62
+Family,Auckland,Women,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,17
+Family,Auckland,Women,Youi Car Third Party Property Only,600 (A); 1800 (T),-,51.63
+Family,Hamilton,Women,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,13.97
+Family,Hamilton,Women,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,12.99
+Family,Hamilton,Women,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,14.98
+Family,Hamilton,Women,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.12
+Family,Hamilton,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,15.81
+Family,Hamilton,Women,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,12.13
+Family,Hamilton,Women,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,8.95
+Family,Hamilton,Women,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,24.14
+Family,Hamilton,Women,State Insurance Car Third Party Only,400 (A); 1300 (T),-,16.07
+Family,Hamilton,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,14.38
+Family,Hamilton,Women,Tower Third Party Car,500 (A); 1250 (T),-,14.76
+Family,Hamilton,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,13.36
+Family,Hamilton,Women,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,12.58
+Family,Hamilton,Women,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,14.42
+Family,Hamilton,Women,Youi Car Third Party Property Only,600 (A); 1800 (T),-,38.18
+Family,Wellington,Women,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,14.64
+Family,Wellington,Women,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,13.12
+Family,Wellington,Women,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,14.98
+Family,Wellington,Women,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.12
+Family,Wellington,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,15.81
+Family,Wellington,Women,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,14.06
+Family,Wellington,Women,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,8.95
+Family,Wellington,Women,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,21.45
+Family,Wellington,Women,State Insurance Car Third Party Only,400 (A); 1300 (T),-,17.58
+Family,Wellington,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,14.38
+Family,Wellington,Women,Tower Third Party Car,500 (A); 1250 (T),-,15.26
+Family,Wellington,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,12.88
+Family,Wellington,Women,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,12.58
+Family,Wellington,Women,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,14.93
+Family,Wellington,Women,Youi Car Third Party Property Only,600 (A); 1800 (T),-,34.14
+Family,Christchurch,Women,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,13.61
+Family,Christchurch,Women,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,12.12
+Family,Christchurch,Women,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,15.38
+Family,Christchurch,Women,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.12
+Family,Christchurch,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,15.81
+Family,Christchurch,Women,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,15.34
+Family,Christchurch,Women,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,8.95
+Family,Christchurch,Women,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,22.24
+Family,Christchurch,Women,State Insurance Car Third Party Only,400 (A); 1300 (T),-,16.07
+Family,Christchurch,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,14.38
+Family,Christchurch,Women,Tower Third Party Car,500 (A); 1250 (T),-,16.77
+Family,Christchurch,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,12.63
+Family,Christchurch,Women,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,12.92
+Family,Christchurch,Women,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,11.97
+Family,Christchurch,Women,Youi Car Third Party Property Only,600 (A); 1800 (T),-,52.21
+Family,Dunedin,Women,AA Insurance Third Party Car Insurance,500 (A); 1050 (T),-,12.94
+Family,Dunedin,Women,AMI Insurance Third Party Car Insurance ,400 (A); 900 (T),-,11.53
+Family,Dunedin,Women,AMP Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,14.57
+Family,Dunedin,Women,ASB Bank Car Insurance Third Party Only,400 (A); 1250 (T),-,17.12
+Family,Dunedin,Women,BNZ PremierCare Vehicle Insurance Third Party Only,400 (A); 1250 (T),-,15.81
+Family,Dunedin,Women,FMG Essential Private Vehicles Third Party Only,400 (A); 1200 (T),-,12.36
+Family,Dunedin,Women,Lantern Insurance Echelon Third Party Only,400 (A); 1250 (T),-,8.95
+Family,Dunedin,Women,MAS Insurance Motor Vehicle Third Party Only,500 (A); 1150 (T),-,20.5
+Family,Dunedin,Women,State Insurance Car Third Party Only,400 (A); 1300 (T),-,14.69
+Family,Dunedin,Women,The Co-operative Bank Asset Care Vehicle Third Party Only,400 (A); 1250 (T),-,14.38
+Family,Dunedin,Women,Tower Third Party Car,500 (A); 1250 (T),-,16.1
+Family,Dunedin,Women,Trade Me Insurance Your Third Party Car Insurance<sup>B</sup>,500 (A); 1000 (T),-,12.88
+Family,Dunedin,Women,Warehouse Money Third Party Property Damage Car Insurance,500 (A); 1250 (T),-,12.24
+Family,Dunedin,Women,Westpac Car Insurance Third Party Only,400 (A); 1100 (T),-,13.41
+Family,Dunedin,Women,Youi Car Third Party Property Only,600 (A); 1800 (T),-,29.46

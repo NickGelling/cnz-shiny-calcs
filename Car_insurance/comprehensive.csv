@@ -1,0 +1,681 @@
+Age,City,Gender,Policy,Excess,Value,Premium
+Young,Auckland,Men,AA Insurance Comprehensive,1050,Agreed,92.11
+Young,Auckland,Men,AMI Insurance Comprehensive,650,Agreed,67.33
+Young,Auckland,Men,AMP Everyday Plus,1000,Agreed,106.2
+Young,Auckland,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,143
+Young,Auckland,Men,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,96.69
+Young,Auckland,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,79.14
+Young,Auckland,Men,FMG Superior Private Vehicles,900,Market,81.14
+Young,Auckland,Men,Lantern Insurance Echelon Full Cover,1000,Market,119.82
+Young,Auckland,Men,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,60.42
+Young,Auckland,Men,State Insurance Car Comprehensive,850,Agreed,72.31
+Young,Auckland,Men,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,72.82
+Young,Auckland,Men,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,72.22
+Young,Auckland,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,65.3
+Young,Auckland,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,130.29
+Young,Auckland,Men,Warehouse Money Everyday Plus,1000,Agreed,101.67
+Young,Auckland,Men,Westpac Car Insurance Full Cover,850,Market,84.25
+Young,Auckland,Men,Youi Car Comprehensive,1800,Agreed,75.23
+Young,Hamilton,Men,AA Insurance Comprehensive,1050,Agreed,70.89
+Young,Hamilton,Men,AMI Insurance Comprehensive,650,Agreed,56.77
+Young,Hamilton,Men,AMP Everyday Plus,1000,Agreed,66.23
+Young,Hamilton,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,90
+Young,Hamilton,Men,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,73.65
+Young,Hamilton,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,56.27
+Young,Hamilton,Men,FMG Superior Private Vehicles,900,Market,51.55
+Young,Hamilton,Men,Lantern Insurance Echelon Full Cover,1000,Market,85.23
+Young,Hamilton,Men,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,51.4
+Young,Hamilton,Men,State Insurance Car Comprehensive,850,Agreed,59.23
+Young,Hamilton,Men,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,50.68
+Young,Hamilton,Men,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,53.61
+Young,Hamilton,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,49.43
+Young,Hamilton,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,88.66
+Young,Hamilton,Men,Warehouse Money Everyday Plus,1000,Agreed,63.48
+Young,Hamilton,Men,Westpac Car Insurance Full Cover,850,Market,67.34
+Young,Hamilton,Men,Youi Car Comprehensive,1800,Agreed,61.56
+Young,Wellington,Men,AA Insurance Comprehensive,1050,Agreed,68.12
+Young,Wellington,Men,AMI Insurance Comprehensive,650,Agreed,59.89
+Young,Wellington,Men,AMP Everyday Plus,1000,Agreed,66.23
+Young,Wellington,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,83
+Young,Wellington,Men,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,72.79
+Young,Wellington,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,59.43
+Young,Wellington,Men,FMG Superior Private Vehicles,900,Market,61.41
+Young,Wellington,Men,Lantern Insurance Echelon Full Cover,1000,Market,85.23
+Young,Wellington,Men,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,45.78
+Young,Wellington,Men,State Insurance Car Comprehensive,850,Agreed,55.64
+Young,Wellington,Men,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,55.43
+Young,Wellington,Men,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,56.8
+Young,Wellington,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,47.85
+Young,Wellington,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,100.43
+Young,Wellington,Men,Warehouse Money Everyday Plus,1000,Agreed,63.48
+Young,Wellington,Men,Westpac Car Insurance Full Cover,850,Market,66.12
+Young,Wellington,Men,Youi Car Comprehensive,1800,Agreed,51.45
+Young,Christchurch,Men,AA Insurance Comprehensive,1050,Agreed,77.68
+Young,Christchurch,Men,AMI Insurance Comprehensive,650,Agreed,63.21
+Young,Christchurch,Men,AMP Everyday Plus,1000,Agreed,72.46
+Young,Christchurch,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,112
+Young,Christchurch,Men,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,65.64
+Young,Christchurch,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,50.54
+Young,Christchurch,Men,FMG Superior Private Vehicles,900,Market,63.17
+Young,Christchurch,Men,Lantern Insurance Echelon Full Cover,1000,Market,74.68
+Young,Christchurch,Men,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,47.43
+Young,Christchurch,Men,State Insurance Car Comprehensive,850,Agreed,66.03
+Young,Christchurch,Men,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,49.82
+Young,Christchurch,Men,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,63.18
+Young,Christchurch,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,47.05
+Young,Christchurch,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,100.43
+Young,Christchurch,Men,Warehouse Money Everyday Plus,1000,Agreed,69.44
+Young,Christchurch,Men,Westpac Car Insurance Full Cover,850,Market,64.76
+Young,Christchurch,Men,Youi Car Comprehensive,1800,Agreed,71.79
+Young,Dunedin,Men,AA Insurance Comprehensive,1050,Agreed,68.12
+Young,Dunedin,Men,AMI Insurance Comprehensive,650,Agreed,58.83
+Young,Dunedin,Men,AMP Everyday Plus,1000,Agreed,60.69
+Young,Dunedin,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,82
+Young,Dunedin,Men,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,61.08
+Young,Dunedin,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,49.94
+Young,Dunedin,Men,FMG Superior Private Vehicles,900,Market,50.52
+Young,Dunedin,Men,Lantern Insurance Echelon Full Cover,1000,Market,74.68
+Young,Dunedin,Men,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,43.77
+Young,Dunedin,Men,State Insurance Car Comprehensive,850,Agreed,56.62
+Young,Dunedin,Men,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,49.86
+Young,Dunedin,Men,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,57.33
+Young,Dunedin,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,47.85
+Young,Dunedin,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,74.18
+Young,Dunedin,Men,Warehouse Money Everyday Plus,1000,Agreed,58.19
+Young,Dunedin,Men,Westpac Car Insurance Full Cover,850,Market,57.14
+Young,Dunedin,Men,Youi Car Comprehensive,1800,Agreed,49.36
+Young,Auckland,Women,AA Insurance Comprehensive,1050,Agreed,81.73
+Young,Auckland,Women,AMI Insurance Comprehensive,650,Agreed,66.73
+Young,Auckland,Women,AMP Everyday Plus,1000,Agreed,109.74
+Young,Auckland,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,135
+Young,Auckland,Women,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,66.66
+Young,Auckland,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,58.44
+Young,Auckland,Women,FMG Superior Private Vehicles,900,Market,81.14
+Young,Auckland,Women,Lantern Insurance Echelon Full Cover,800,Market,99.56
+Young,Auckland,Women,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,60.42
+Young,Auckland,Women,State Insurance Car Comprehensive,850,Agreed,67.82
+Young,Auckland,Women,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,54.83
+Young,Auckland,Women,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,70.41
+Young,Auckland,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,58.6
+Young,Auckland,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,130.29
+Young,Auckland,Women,Warehouse Money Everyday Plus,1000,Agreed,105.04
+Young,Auckland,Women,Westpac Car Insurance Full Cover,850,Market,64.6
+Young,Auckland,Women,Youi Car Comprehensive,1800,Agreed,59.28
+Young,Hamilton,Women,AA Insurance Comprehensive,1050,Agreed,63.08
+Young,Hamilton,Women,AMI Insurance Comprehensive,650,Agreed,56.27
+Young,Hamilton,Women,AMP Everyday Plus,1000,Agreed,68.19
+Young,Hamilton,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,85
+Young,Hamilton,Women,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,51.34
+Young,Hamilton,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,42.09
+Young,Hamilton,Women,FMG Superior Private Vehicles,900,Market,51.55
+Young,Hamilton,Women,Lantern Insurance Echelon Full Cover,800,Market,71.17
+Young,Hamilton,Women,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,51.4
+Young,Hamilton,Women,State Insurance Car Comprehensive,850,Agreed,55.64
+Young,Hamilton,Women,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,38.65
+Young,Hamilton,Women,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,52.31
+Young,Hamilton,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,44.52
+Young,Hamilton,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,88.66
+Young,Hamilton,Women,Warehouse Money Everyday Plus,1000,Agreed,65.36
+Young,Hamilton,Women,Westpac Car Insurance Full Cover,850,Market,51.68
+Young,Hamilton,Women,Youi Car Comprehensive,1800,Agreed,48.46
+Young,Wellington,Women,AA Insurance Comprehensive,1050,Agreed,64.3
+Young,Wellington,Women,AMI Insurance Comprehensive,650,Agreed,59.36
+Young,Wellington,Women,AMP Everyday Plus,1000,Agreed,68.19
+Young,Wellington,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,79
+Young,Wellington,Women,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,50.77
+Young,Wellington,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,44.36
+Young,Wellington,Women,FMG Superior Private Vehicles,900,Market,61.41
+Young,Wellington,Women,Lantern Insurance Echelon Full Cover,800,Market,71.17
+Young,Wellington,Women,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,45.78
+Young,Wellington,Women,State Insurance Car Comprehensive,850,Agreed,52.29
+Young,Wellington,Women,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,42.12
+Young,Wellington,Women,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,55.42
+Young,Wellington,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,43.11
+Young,Wellington,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,100.43
+Young,Wellington,Women,Warehouse Money Everyday Plus,1000,Agreed,65.36
+Young,Wellington,Women,Westpac Car Insurance Full Cover,850,Market,50.74
+Young,Wellington,Women,Youi Car Comprehensive,1800,Agreed,41.02
+Young,Christchurch,Women,AA Insurance Comprehensive,1050,Agreed,69.05
+Young,Christchurch,Women,AMI Insurance Comprehensive,650,Agreed,62.64
+Young,Christchurch,Women,AMP Everyday Plus,1000,Agreed,74.67
+Young,Christchurch,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,106
+Young,Christchurch,Women,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,46.02
+Young,Christchurch,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,38
+Young,Christchurch,Women,FMG Superior Private Vehicles,900,Market,63.17
+Young,Christchurch,Women,Lantern Insurance Echelon Full Cover,800,Market,62.53
+Young,Christchurch,Women,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,47.43
+Young,Christchurch,Women,State Insurance Car Comprehensive,850,Agreed,61.97
+Young,Christchurch,Women,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,38.02
+Young,Christchurch,Women,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,61.62
+Young,Christchurch,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,42.4
+Young,Christchurch,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,100.43
+Young,Christchurch,Women,Warehouse Money Everyday Plus,1000,Agreed,71.55
+Young,Christchurch,Women,Westpac Car Insurance Full Cover,850,Market,49.69
+Young,Christchurch,Women,Youi Car Comprehensive,1800,Agreed,56.46
+Young,Dunedin,Women,AA Insurance Comprehensive,1050,Agreed,60.65
+Young,Dunedin,Women,AMI Insurance Comprehensive,650,Agreed,58.31
+Young,Dunedin,Women,AMP Everyday Plus,1000,Agreed,62.43
+Young,Dunedin,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,1000,Agreed,78
+Young,Dunedin,Women,ASB Bank Private Motor Vehicle Comprehensive,750,Agreed,42.98
+Young,Dunedin,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,750,Agreed,37.57
+Young,Dunedin,Women,FMG Superior Private Vehicles,900,Market,50.52
+Young,Dunedin,Women,Lantern Insurance Echelon Full Cover,800,Market,62.53
+Young,Dunedin,Women,MAS Insurance Motor Vehicle Comprehensive,750,Agreed<sup>D</sup>,43.77
+Young,Dunedin,Women,State Insurance Car Comprehensive,850,Agreed,53.22
+Young,Dunedin,Women,The Cooperative Bank Asset Care Vehicle Standard,750,Agreed,38.05
+Young,Dunedin,Women,Tower Comprehensive Car Insurance,1000,Agreed<sup>E</sup>,55.93
+Young,Dunedin,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,1000,Agreed,43.11
+Young,Dunedin,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,700,Agreed<sup>E</sup>,74.18
+Young,Dunedin,Women,Warehouse Money Everyday Plus,1000,Agreed,59.86
+Young,Dunedin,Women,Westpac Car Insurance Full Cover,850,Market,43.87
+Young,Dunedin,Women,Youi Car Comprehensive,1800,Agreed,39.18
+Middle,Auckland,Men,AA Insurance Comprehensive,500,Agreed,78.28
+Middle,Auckland,Men,AMI Insurance Comprehensive,400,Agreed,87.48
+Middle,Auckland,Men,AMP Everyday Plus,500,Agreed,91.47
+Middle,Auckland,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,109
+Middle,Auckland,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,81.99
+Middle,Auckland,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,74.29
+Middle,Auckland,Men,FMG Superior Private Vehicles,400,Market,74.68
+Middle,Auckland,Men,Lantern Insurance Echelon Full Cover,400,Market,101.13
+Middle,Auckland,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,87.55
+Middle,Auckland,Men,State Insurance Car Comprehensive,400,Agreed,75.7
+Middle,Auckland,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,70.86
+Middle,Auckland,Men,Tower Comprehensive Car Insurance,500,Agreed,55.92
+Middle,Auckland,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,59.24
+Middle,Auckland,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,100.65
+Middle,Auckland,Men,Warehouse Money Everyday Plus,500,Agreed,87.6
+Middle,Auckland,Men,Westpac Car Insurance Comprehensive,400,Market,62.03
+Middle,Auckland,Men,Youi Car Comprehensive,600,Agreed,53.54
+Middle,Hamilton,Men,AA Insurance Comprehensive,500,Agreed,60.48
+Middle,Hamilton,Men,AMI Insurance Comprehensive,400,Agreed,73.52
+Middle,Hamilton,Men,AMP Everyday Plus,500,Agreed,58.05
+Middle,Hamilton,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,64
+Middle,Hamilton,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,62.72
+Middle,Hamilton,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,53.23
+Middle,Hamilton,Men,FMG Superior Private Vehicles,400,Market,47.66
+Middle,Hamilton,Men,Lantern Insurance Echelon Full Cover,400,Market,72.28
+Middle,Hamilton,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,74.43
+Middle,Hamilton,Men,State Insurance Car Comprehensive,400,Agreed,61.97
+Middle,Hamilton,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,49.65
+Middle,Hamilton,Men,Tower Comprehensive Car Insurance,500,Agreed,41.88
+Middle,Hamilton,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,44.91
+Middle,Hamilton,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,68.56
+Middle,Hamilton,Men,Warehouse Money Everyday Plus,500,Agreed,55.67
+Middle,Hamilton,Men,Westpac Car Insurance Comprehensive,400,Market,49.69
+Middle,Hamilton,Men,Youi Car Comprehensive,600,Agreed,44.63
+Middle,Wellington,Men,AA Insurance Comprehensive,500,Agreed,61.65
+Middle,Wellington,Men,AMI Insurance Comprehensive,400,Agreed,77.64
+Middle,Wellington,Men,AMP Everyday Plus,500,Agreed,58.05
+Middle,Wellington,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,66
+Middle,Wellington,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,62.01
+Middle,Wellington,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,56.14
+Middle,Wellington,Men,FMG Superior Private Vehicles,400,Market,56.67
+Middle,Wellington,Men,Lantern Insurance Echelon Full Cover,400,Market,72.28
+Middle,Wellington,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,66.25
+Middle,Wellington,Men,State Insurance Car Comprehensive,400,Agreed,58.18
+Middle,Wellington,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,54.19
+Middle,Wellington,Men,Tower Comprehensive Car Insurance,500,Agreed,44.28
+Middle,Wellington,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,43.48
+Middle,Wellington,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,77.63
+Middle,Wellington,Men,Warehouse Money Everyday Plus,500,Agreed,55.67
+Middle,Wellington,Men,Westpac Car Insurance Comprehensive,400,Market,48.67
+Middle,Wellington,Men,Youi Car Comprehensive,600,Agreed,37.75
+Middle,Christchurch,Men,AA Insurance Comprehensive,500,Agreed,66.17
+Middle,Christchurch,Men,AMI Insurance Comprehensive,400,Agreed,82.03
+Middle,Christchurch,Men,AMP Everyday Plus,500,Agreed,63.26
+Middle,Christchurch,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,80
+Middle,Christchurch,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,56.03
+Middle,Christchurch,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,47.96
+Middle,Christchurch,Men,FMG Superior Private Vehicles,400,Market,58.77
+Middle,Christchurch,Men,Lantern Insurance Echelon Full Cover,400,Market,63.47
+Middle,Christchurch,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,68.65
+Middle,Christchurch,Men,State Insurance Car Comprehensive,400,Agreed,69.07
+Middle,Christchurch,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,48.82
+Middle,Christchurch,Men,Tower Comprehensive Car Insurance,500,Agreed,49.1
+Middle,Christchurch,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,42.76
+Middle,Christchurch,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,77.63
+Middle,Christchurch,Men,Warehouse Money Everyday Plus,500,Agreed,60.65
+Middle,Christchurch,Men,Westpac Car Insurance Comprehensive,400,Market,50.76
+Middle,Christchurch,Men,Youi Car Comprehensive,600,Agreed,50.85
+Middle,Dunedin,Men,AA Insurance Comprehensive,500,Agreed,58.16
+Middle,Dunedin,Men,AMI Insurance Comprehensive,400,Agreed,76.24
+Middle,Dunedin,Men,AMP Everyday Plus,500,Agreed,53.42
+Middle,Dunedin,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,64
+Middle,Dunedin,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,52.22
+Middle,Dunedin,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,47.4
+Middle,Dunedin,Men,FMG Superior Private Vehicles,400,Market,47.1
+Middle,Dunedin,Men,Lantern Insurance Echelon Full Cover,400,Market,63.47
+Middle,Dunedin,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,63.32
+Middle,Dunedin,Men,State Insurance Car Comprehensive,400,Agreed,59.23
+Middle,Dunedin,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,48.86
+Middle,Dunedin,Men,Tower Comprehensive Car Insurance,500,Agreed,44.68
+Middle,Dunedin,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,43.48
+Middle,Dunedin,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,57.39
+Middle,Dunedin,Men,Warehouse Money Everyday Plus,500,Agreed,51.25
+Middle,Dunedin,Men,Westpac Car Insurance Comprehensive,400,Market,43.92
+Middle,Dunedin,Men,Youi Car Comprehensive,600,Agreed,36.39
+Middle,Auckland,Women,AA Insurance Comprehensive,500,Agreed,80.63
+Middle,Auckland,Women,AMI Insurance Comprehensive,400,Agreed,87.48
+Middle,Auckland,Women,AMP Everyday Plus,500,Agreed,96.03
+Middle,Auckland,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,115
+Middle,Auckland,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,85.3
+Middle,Auckland,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,78.88
+Middle,Auckland,Women,FMG Superior Private Vehicles,400,Market,74.68
+Middle,Auckland,Women,Lantern Insurance Echelon Full Cover,400,Market,101.13
+Middle,Auckland,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,87.55
+Middle,Auckland,Women,State Insurance Car Comprehensive,400,Agreed,72.97
+Middle,Auckland,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,72.47
+Middle,Auckland,Women,Tower Comprehensive Car Insurance,500,Agreed,57.69
+Middle,Auckland,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,59.24
+Middle,Auckland,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,100.65
+Middle,Auckland,Women,Warehouse Money Everyday Plus,500,Agreed,91.95
+Middle,Auckland,Women,Westpac Car Insurance Comprehensive,400,Market,63.25
+Middle,Auckland,Women,Youi Car Comprehensive,600,Agreed,49.46
+Middle,Hamilton,Women,AA Insurance Comprehensive,500,Agreed,62.25
+Middle,Hamilton,Women,AMI Insurance Comprehensive,400,Agreed,73.52
+Middle,Hamilton,Women,AMP Everyday Plus,500,Agreed,60.58
+Middle,Hamilton,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,68
+Middle,Hamilton,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,65.18
+Middle,Hamilton,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,56.37
+Middle,Hamilton,Women,FMG Superior Private Vehicles,400,Market,47.66
+Middle,Hamilton,Women,Lantern Insurance Echelon Full Cover,400,Market,72.28
+Middle,Hamilton,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,74.43
+Middle,Hamilton,Women,State Insurance Car Comprehensive,400,Agreed,59.78
+Middle,Hamilton,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,50.72
+Middle,Hamilton,Women,Tower Comprehensive Car Insurance,500,Agreed,43.15
+Middle,Hamilton,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,44.91
+Middle,Hamilton,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,68.56
+Middle,Hamilton,Women,Warehouse Money Everyday Plus,500,Agreed,58.09
+Middle,Hamilton,Women,Westpac Car Insurance Comprehensive,400,Market,50.66
+Middle,Hamilton,Women,Youi Car Comprehensive,600,Agreed,41.18
+Middle,Wellington,Women,AA Insurance Comprehensive,500,Agreed,63.46
+Middle,Wellington,Women,AMI Insurance Comprehensive,400,Agreed,77.64
+Middle,Wellington,Women,AMP Everyday Plus,500,Agreed,60.58
+Middle,Wellington,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,70
+Middle,Wellington,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,64.44
+Middle,Wellington,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,59.49
+Middle,Wellington,Women,FMG Superior Private Vehicles,400,Market,56.67
+Middle,Wellington,Women,Lantern Insurance Echelon Full Cover,400,Market,72.28
+Middle,Wellington,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,66.25
+Middle,Wellington,Women,State Insurance Car Comprehensive,400,Agreed,56.15
+Middle,Wellington,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,55.38
+Middle,Wellington,Women,Tower Comprehensive Car Insurance,500,Agreed,45.64
+Middle,Wellington,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,43.48
+Middle,Wellington,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,77.63
+Middle,Wellington,Women,Warehouse Money Everyday Plus,500,Agreed,58.09
+Middle,Wellington,Women,Westpac Car Insurance Comprehensive,400,Market,49.62
+Middle,Wellington,Women,Youi Car Comprehensive,600,Agreed,34.69
+Middle,Christchurch,Women,AA Insurance Comprehensive,500,Agreed,68.13
+Middle,Christchurch,Women,AMI Insurance Comprehensive,400,Agreed,82.03
+Middle,Christchurch,Women,AMP Everyday Plus,500,Agreed,66.11
+Middle,Christchurch,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,85
+Middle,Christchurch,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,58.19
+Middle,Christchurch,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,50.74
+Middle,Christchurch,Women,FMG Superior Private Vehicles,400,Market,58.77
+Middle,Christchurch,Women,Lantern Insurance Echelon Full Cover,400,Market,63.47
+Middle,Christchurch,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,68.65
+Middle,Christchurch,Women,State Insurance Car Comprehensive,400,Agreed,66.61
+Middle,Christchurch,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,49.88
+Middle,Christchurch,Women,Tower Comprehensive Car Insurance,500,Agreed,50.62
+Middle,Christchurch,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,42.76
+Middle,Christchurch,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,77.63
+Middle,Christchurch,Women,Warehouse Money Everyday Plus,500,Agreed,63.37
+Middle,Christchurch,Women,Westpac Car Insurance Comprehensive,400,Market,51.75
+Middle,Christchurch,Women,Youi Car Comprehensive,600,Agreed,46.07
+Middle,Dunedin,Women,AA Insurance Comprehensive,500,Agreed,59.86
+Middle,Dunedin,Women,AMI Insurance Comprehensive,400,Agreed,76.24
+Middle,Dunedin,Women,AMP Everyday Plus,500,Agreed,55.67
+Middle,Dunedin,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,67
+Middle,Dunedin,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,54.21
+Middle,Dunedin,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,50.15
+Middle,Dunedin,Women,FMG Superior Private Vehicles,400,Market,47.1
+Middle,Dunedin,Women,Lantern Insurance Echelon Full Cover,400,Market,63.47
+Middle,Dunedin,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,63.32
+Middle,Dunedin,Women,State Insurance Car Comprehensive,400,Agreed,57.13
+Middle,Dunedin,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,49.92
+Middle,Dunedin,Women,Tower Comprehensive Car Insurance,500,Agreed,46.06
+Middle,Dunedin,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,43.48
+Middle,Dunedin,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,57.39
+Middle,Dunedin,Women,Warehouse Money Everyday Plus,500,Agreed,53.39
+Middle,Dunedin,Women,Westpac Car Insurance Comprehensive,400,Market,44.78
+Middle,Dunedin,Women,Youi Car Comprehensive,600,Agreed,33.99
+Older,Auckland,Men,AA Insurance Comprehensive,500,Agreed,76.29
+Older,Auckland,Men,AMI Insurance Comprehensive,400,Agreed,73.33
+Older,Auckland,Men,AMP Everyday Plus,500,Agreed,70.79
+Older,Auckland,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,84
+Older,Auckland,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,74.57
+Older,Auckland,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,64.83
+Older,Auckland,Men,FMG Superior Private Vehicles,400,Market,67.46
+Older,Auckland,Men,Lantern Insurance Echelon Full Cover,400,Market,66.23
+Older,Auckland,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,71.51
+Older,Auckland,Men,State Insurance Car Comprehensive,400,Agreed,64.23
+Older,Auckland,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,62.24
+Older,Auckland,Men,Tower Comprehensive Car Insurance,500,Agreed,66.97
+Older,Auckland,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,49.64
+Older,Auckland,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,87.29
+Older,Auckland,Men,Warehouse Money Everyday Plus,500,Agreed,67.84
+Older,Auckland,Men,Westpac Car Insurance Comprehensive,400,Market,52.68
+Older,Auckland,Men,Youi Car Comprehensive,600,Agreed,59.89
+Older,Hamilton,Men,AA Insurance Comprehensive,500,Agreed,58.99
+Older,Hamilton,Men,AMI Insurance Comprehensive,400,Agreed,61.77
+Older,Hamilton,Men,AMP Everyday Plus,500,Agreed,46.57
+Older,Hamilton,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,54
+Older,Hamilton,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,57.22
+Older,Hamilton,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,46.61
+Older,Hamilton,Men,FMG Superior Private Vehicles,400,Market,43.01
+Older,Hamilton,Men,Lantern Insurance Echelon Full Cover,400,Market,48.09
+Older,Hamilton,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,60.81
+Older,Hamilton,Men,State Insurance Car Comprehensive,400,Agreed,52.76
+Older,Hamilton,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,43.75
+Older,Hamilton,Men,Tower Comprehensive Car Insurance,500,Agreed,49.83
+Older,Hamilton,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,37.9
+Older,Hamilton,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,59.49
+Older,Hamilton,Men,Warehouse Money Everyday Plus,500,Agreed,44.7
+Older,Hamilton,Men,Westpac Car Insurance Comprehensive,400,Market,41.72
+Older,Hamilton,Men,Youi Car Comprehensive,600,Agreed,49.06
+Older,Wellington,Men,AA Insurance Comprehensive,500,Agreed,60.12
+Older,Wellington,Men,AMI Insurance Comprehensive,400,Agreed,65.19
+Older,Wellington,Men,AMP Everyday Plus,500,Agreed,46.57
+Older,Wellington,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,55
+Older,Wellington,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,56.57
+Older,Wellington,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,49.14
+Older,Wellington,Men,FMG Superior Private Vehicles,400,Market,51.16
+Older,Wellington,Men,Lantern Insurance Echelon Full Cover,400,Market,48.09
+Older,Wellington,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,54.14
+Older,Wellington,Men,State Insurance Car Comprehensive,400,Agreed,49.6
+Older,Wellington,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,47.71
+Older,Wellington,Men,Tower Comprehensive Car Insurance,500,Agreed,52.77
+Older,Wellington,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,36.72
+Older,Wellington,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,67.35
+Older,Wellington,Men,Warehouse Money Everyday Plus,500,Agreed,44.7
+Older,Wellington,Men,Westpac Car Insurance Comprehensive,400,Market,41.11
+Older,Wellington,Men,Youi Car Comprehensive,600,Agreed,41.23
+Older,Christchurch,Men,AA Insurance Comprehensive,500,Agreed,64.52
+Older,Christchurch,Men,AMI Insurance Comprehensive,400,Agreed,68.82
+Older,Christchurch,Men,AMP Everyday Plus,500,Agreed,50.34
+Older,Christchurch,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,67
+Older,Christchurch,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,51.19
+Older,Christchurch,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,42.06
+Older,Christchurch,Men,FMG Superior Private Vehicles,400,Market,52.94
+Older,Christchurch,Men,Lantern Insurance Echelon Full Cover,400,Market,42.55
+Older,Christchurch,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,56.1
+Older,Christchurch,Men,State Insurance Car Comprehensive,400,Agreed,58.69
+Older,Christchurch,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,43.03
+Older,Christchurch,Men,Tower Comprehensive Car Insurance,500,Agreed,58.65
+Older,Christchurch,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,36.14
+Older,Christchurch,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,67.35
+Older,Christchurch,Men,Warehouse Money Everyday Plus,500,Agreed,48.31
+Older,Christchurch,Men,Westpac Car Insurance Comprehensive,400,Market,44.91
+Older,Christchurch,Men,Youi Car Comprehensive,600,Agreed,56.03
+Older,Dunedin,Men,AA Insurance Comprehensive,500,Agreed,56.73
+Older,Dunedin,Men,AMI Insurance Comprehensive,400,Agreed,64.02
+Older,Dunedin,Men,AMP Everyday Plus,500,Agreed,43.21
+Older,Dunedin,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,50
+Older,Dunedin,Men,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,47.75
+Older,Dunedin,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,41.58
+Older,Dunedin,Men,FMG Superior Private Vehicles,400,Market,42.41
+Older,Dunedin,Men,Lantern Insurance Echelon Full Cover,400,Market,42.55
+Older,Dunedin,Men,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,51.76
+Older,Dunedin,Men,State Insurance Car Comprehensive,400,Agreed,50.46
+Older,Dunedin,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,43.07
+Older,Dunedin,Men,Tower Comprehensive Car Insurance,500,Agreed,53.26
+Older,Dunedin,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,36.72
+Older,Dunedin,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,49.82
+Older,Dunedin,Men,Warehouse Money Everyday Plus,500,Agreed,41.5
+Older,Dunedin,Men,Westpac Car Insurance Comprehensive,400,Market,38.4
+Older,Dunedin,Men,Youi Car Comprehensive,600,Agreed,40.34
+Older,Auckland,Women,AA Insurance Comprehensive,500,Agreed,79.15
+Older,Auckland,Women,AMI Insurance Comprehensive,400,Agreed,73.33
+Older,Auckland,Women,AMP Everyday Plus,500,Agreed,82.59
+Older,Auckland,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,101
+Older,Auckland,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,82.09
+Older,Auckland,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,67.63
+Older,Auckland,Women,FMG Superior Private Vehicles,400,Market,67.46
+Older,Auckland,Women,Lantern Insurance Echelon Full Cover,400,Market,66.23
+Older,Auckland,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,71.51
+Older,Auckland,Women,State Insurance Car Comprehensive,400,Agreed,64.82
+Older,Auckland,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,64.76
+Older,Auckland,Women,Tower Comprehensive Car Insurance,500,Agreed,71.75
+Older,Auckland,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,50.59
+Older,Auckland,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,87.39
+Older,Auckland,Women,Warehouse Money Everyday Plus,500,Agreed,79.11
+Older,Auckland,Women,Westpac Car Insurance Comprehensive,400,Market,52.68
+Older,Auckland,Women,Youi Car Comprehensive,600,Agreed,58.28
+Older,Hamilton,Women,AA Insurance Comprehensive,500,Agreed,61.14
+Older,Hamilton,Women,AMI Insurance Comprehensive,400,Agreed,61.77
+Older,Hamilton,Women,AMP Everyday Plus,500,Agreed,53.12
+Older,Hamilton,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,64
+Older,Hamilton,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,62.8
+Older,Hamilton,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,48.54
+Older,Hamilton,Women,FMG Superior Private Vehicles,400,Market,43.01
+Older,Hamilton,Women,Lantern Insurance Echelon Full Cover,400,Market,48.09
+Older,Hamilton,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,60.81
+Older,Hamilton,Women,State Insurance Car Comprehensive,400,Agreed,53.22
+Older,Hamilton,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,45.44
+Older,Hamilton,Women,Tower Comprehensive Car Insurance,500,Agreed,53.27
+Older,Hamilton,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,38.59
+Older,Hamilton,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,59.49
+Older,Hamilton,Women,Warehouse Money Everyday Plus,500,Agreed,50.96
+Older,Hamilton,Women,Westpac Car Insurance Comprehensive,400,Market,41.72
+Older,Hamilton,Women,Youi Car Comprehensive,600,Agreed,47.87
+Older,Wellington,Women,AA Insurance Comprehensive,500,Agreed,62.33
+Older,Wellington,Women,AMI Insurance Comprehensive,400,Agreed,65.19
+Older,Wellington,Women,AMP Everyday Plus,500,Agreed,53.12
+Older,Wellington,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,66
+Older,Wellington,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,62.09
+Older,Wellington,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,51.18
+Older,Wellington,Women,FMG Superior Private Vehicles,400,Market,51.16
+Older,Wellington,Women,Lantern Insurance Echelon Full Cover,400,Market,48.09
+Older,Wellington,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,54.14
+Older,Wellington,Women,State Insurance Car Comprehensive,400,Agreed,50.03
+Older,Wellington,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,49.58
+Older,Wellington,Women,Tower Comprehensive Car Insurance,500,Agreed,56.44
+Older,Wellington,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,37.39
+Older,Wellington,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,67.35
+Older,Wellington,Women,Warehouse Money Everyday Plus,500,Agreed,50.96
+Older,Wellington,Women,Westpac Car Insurance Comprehensive,400,Market,41.11
+Older,Wellington,Women,Youi Car Comprehensive,600,Agreed,40.63
+Older,Christchurch,Women,AA Insurance Comprehensive,500,Agreed,66.9
+Older,Christchurch,Women,AMI Insurance Comprehensive,400,Agreed,68.82
+Older,Christchurch,Women,AMP Everyday Plus,500,Agreed,57.71
+Older,Christchurch,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,80
+Older,Christchurch,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,56.1
+Older,Christchurch,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,43.76
+Older,Christchurch,Women,FMG Superior Private Vehicles,400,Market,52.94
+Older,Christchurch,Women,Lantern Insurance Echelon Full Cover,400,Market,42.55
+Older,Christchurch,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,56.1
+Older,Christchurch,Women,State Insurance Car Comprehensive,400,Agreed,59.23
+Older,Christchurch,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,44.69
+Older,Christchurch,Women,Tower Comprehensive Car Insurance,500,Agreed,62.77
+Older,Christchurch,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,36.79
+Older,Christchurch,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,67.35
+Older,Christchurch,Women,Warehouse Money Everyday Plus,500,Agreed,55.35
+Older,Christchurch,Women,Westpac Car Insurance Comprehensive,400,Market,44.91
+Older,Christchurch,Women,Youi Car Comprehensive,600,Agreed,54.21
+Older,Dunedin,Women,AA Insurance Comprehensive,500,Agreed,58.8
+Older,Dunedin,Women,AMI Insurance Comprehensive,400,Agreed,64.02
+Older,Dunedin,Women,AMP Everyday Plus,500,Agreed,49.03
+Older,Dunedin,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500,Agreed,59
+Older,Dunedin,Women,ASB Bank Private Motor Vehicle Comprehensive,400,Agreed,52.28
+Older,Dunedin,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400,Agreed,43.26
+Older,Dunedin,Women,FMG Superior Private Vehicles,400,Market,42.41
+Older,Dunedin,Women,Lantern Insurance Echelon Full Cover,400,Market,42.55
+Older,Dunedin,Women,MAS Insurance Motor Vehicle Comprehensive,500,Agreed<sup>D</sup>,51.76
+Older,Dunedin,Women,State Insurance Car Comprehensive,400,Agreed,50.92
+Older,Dunedin,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400,Agreed,44.72
+Older,Dunedin,Women,Tower Comprehensive Car Insurance,500,Agreed,56.97
+Older,Dunedin,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500,Agreed,37.39
+Older,Dunedin,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400,Agreed,49.82
+Older,Dunedin,Women,Warehouse Money Everyday Plus,500,Agreed,47.06
+Older,Dunedin,Women,Westpac Car Insurance Comprehensive,400,Market,38.4
+Older,Dunedin,Women,Youi Car Comprehensive,600,Agreed,39.85
+Family,Auckland,Men,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,157.37
+Family,Auckland,Men,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,104.52
+Family,Auckland,Men,AMP Everyday Plus,500 (A); 1250 (T),Agreed,130.17
+Family,Auckland,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,120
+Family,Auckland,Men,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,97.33
+Family,Auckland,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,98.56
+Family,Auckland,Men,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,80.96
+Family,Auckland,Men,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,123.71
+Family,Auckland,Men,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,105.9
+Family,Auckland,Men,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,131.55
+Family,Auckland,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,94.04
+Family,Auckland,Men,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,104.15
+Family,Auckland,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,98.78
+Family,Auckland,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,170.55
+Family,Auckland,Men,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,124.56
+Family,Auckland,Men,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,78.27
+Family,Auckland,Men,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,125.79
+Family,Hamilton,Men,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,119.95
+Family,Hamilton,Men,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,87.65
+Family,Hamilton,Men,AMP Everyday Plus,500 (A); 1250 (T),Agreed,79.54
+Family,Hamilton,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,71
+Family,Hamilton,Men,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,74.12
+Family,Hamilton,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,70.01
+Family,Hamilton,Men,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,51.73
+Family,Hamilton,Men,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,87.92
+Family,Hamilton,Men,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,90
+Family,Hamilton,Men,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,106.81
+Family,Hamilton,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,65.29
+Family,Hamilton,Men,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,76.6
+Family,Hamilton,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,73.9
+Family,Hamilton,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,115.97
+Family,Hamilton,Men,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,76.2
+Family,Hamilton,Men,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,63.39
+Family,Hamilton,Men,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,99.91
+Family,Wellington,Men,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,122.41
+Family,Wellington,Men,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,92.64
+Family,Wellington,Men,AMP Everyday Plus,500 (A); 1250 (T),Agreed,79.54
+Family,Wellington,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,73
+Family,Wellington,Men,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,73.26
+Family,Wellington,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,73.96
+Family,Wellington,Men,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,61.47
+Family,Wellington,Men,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,87.92
+Family,Wellington,Men,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,80.09
+Family,Wellington,Men,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,100.02
+Family,Wellington,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,71.45
+Family,Wellington,Men,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,81.32
+Family,Wellington,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,71.42
+Family,Wellington,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,131.4
+Family,Wellington,Men,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,76.2
+Family,Wellington,Men,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,61.72
+Family,Wellington,Men,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,82.07
+Family,Christchurch,Men,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,131.92
+Family,Christchurch,Men,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,97.63
+Family,Christchurch,Men,AMP Everyday Plus,500 (A); 1250 (T),Agreed,87.43
+Family,Christchurch,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,88
+Family,Christchurch,Men,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,66.06
+Family,Christchurch,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,62.86
+Family,Christchurch,Men,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,63.85
+Family,Christchurch,Men,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,76.99
+Family,Christchurch,Men,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,83
+Family,Christchurch,Men,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,119.64
+Family,Christchurch,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,64.17
+Family,Christchurch,Men,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,90.77
+Family,Christchurch,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,70.17
+Family,Christchurch,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,131.4
+Family,Christchurch,Men,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,83.74
+Family,Christchurch,Men,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,62.01
+Family,Christchurch,Men,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,117.05
+Family,Dunedin,Men,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,109.33
+Family,Dunedin,Men,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,90.94
+Family,Dunedin,Men,AMP Everyday Plus,500 (A); 1250 (T),Agreed,72.52
+Family,Dunedin,Men,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,70
+Family,Dunedin,Men,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,61.47
+Family,Dunedin,Men,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,62.11
+Family,Dunedin,Men,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,51.21
+Family,Dunedin,Men,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,76.99
+Family,Dunedin,Men,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,76.54
+Family,Dunedin,Men,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,101.93
+Family,Dunedin,Men,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,64.23
+Family,Dunedin,Men,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,82.11
+Family,Dunedin,Men,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,71.42
+Family,Dunedin,Men,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,96.99
+Family,Dunedin,Men,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,69.49
+Family,Dunedin,Men,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,55.89
+Family,Dunedin,Men,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,78.01
+Family,Auckland,Women,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,157.37
+Family,Auckland,Women,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,104.52
+Family,Auckland,Women,AMP Everyday Plus,500 (A); 1250 (T),Agreed,130.17
+Family,Auckland,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,120
+Family,Auckland,Women,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,97.33
+Family,Auckland,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,98.56
+Family,Auckland,Women,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,80.96
+Family,Auckland,Women,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,123.71
+Family,Auckland,Women,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,105.9
+Family,Auckland,Women,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,131.55
+Family,Auckland,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,94.04
+Family,Auckland,Women,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,104.15
+Family,Auckland,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,98.78
+Family,Auckland,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,170.55
+Family,Auckland,Women,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,124.56
+Family,Auckland,Women,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,78.27
+Family,Auckland,Women,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,125.79
+Family,Hamilton,Women,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,119.95
+Family,Hamilton,Women,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,87.65
+Family,Hamilton,Women,AMP Everyday Plus,500 (A); 1250 (T),Agreed,79.54
+Family,Hamilton,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,71
+Family,Hamilton,Women,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,74.12
+Family,Hamilton,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,70.01
+Family,Hamilton,Women,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,51.73
+Family,Hamilton,Women,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,87.92
+Family,Hamilton,Women,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,90
+Family,Hamilton,Women,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,106.81
+Family,Hamilton,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,65.29
+Family,Hamilton,Women,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,76.6
+Family,Hamilton,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,73.9
+Family,Hamilton,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,115.97
+Family,Hamilton,Women,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,76.2
+Family,Hamilton,Women,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,63.39
+Family,Hamilton,Women,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,99.91
+Family,Wellington,Women,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,122.41
+Family,Wellington,Women,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,92.64
+Family,Wellington,Women,AMP Everyday Plus,500 (A); 1250 (T),Agreed,79.54
+Family,Wellington,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,73
+Family,Wellington,Women,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,73.26
+Family,Wellington,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,73.96
+Family,Wellington,Women,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,61.47
+Family,Wellington,Women,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,87.92
+Family,Wellington,Women,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,80.09
+Family,Wellington,Women,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,100.02
+Family,Wellington,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,71.45
+Family,Wellington,Women,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,81.32
+Family,Wellington,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,71.42
+Family,Wellington,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,131.4
+Family,Wellington,Women,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,76.2
+Family,Wellington,Women,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,61.72
+Family,Wellington,Women,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,82.07
+Family,Christchurch,Women,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,131.92
+Family,Christchurch,Women,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,97.63
+Family,Christchurch,Women,AMP Everyday Plus,500 (A); 1250 (T),Agreed,87.43
+Family,Christchurch,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,88
+Family,Christchurch,Women,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,66.06
+Family,Christchurch,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,62.86
+Family,Christchurch,Women,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,63.85
+Family,Christchurch,Women,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,76.99
+Family,Christchurch,Women,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,83
+Family,Christchurch,Women,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,119.64
+Family,Christchurch,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,64.17
+Family,Christchurch,Women,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,90.77
+Family,Christchurch,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,70.17
+Family,Christchurch,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,131.4
+Family,Christchurch,Women,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,83.74
+Family,Christchurch,Women,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,62.01
+Family,Christchurch,Women,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,117.05
+Family,Dunedin,Women,AA Insurance Comprehensive,500 (A); 1050 (T),Agreed,109.33
+Family,Dunedin,Women,AMI Insurance Comprehensive,400 (A); 900 (T),Agreed,90.94
+Family,Dunedin,Women,AMP Everyday Plus,500 (A); 1250 (T),Agreed,72.52
+Family,Dunedin,Women,ANZ Asset Protector Comprehensive Motor Vehicle<sup>A</sup>,500 (A); 1250 (T),Agreed,70
+Family,Dunedin,Women,ASB Bank Private Motor Vehicle Comprehensive,400 (A); 1250 (T),Agreed,61.47
+Family,Dunedin,Women,BNZ PremierCare Motor Vehicle Insurance Supreme Cover,400 (A); 1250 (T),Agreed,62.11
+Family,Dunedin,Women,FMG Superior Private Vehicles,400 (A); 1200 (T),Market,51.21
+Family,Dunedin,Women,Lantern Insurance Echelon Full Cover,400 (A); 1250 (T),Market,76.99
+Family,Dunedin,Women,MAS Insurance Motor Vehicle Comprehensive,500 (A); 1150 (T),Agreed<sup>D</sup>,76.54
+Family,Dunedin,Women,State Insurance Car Comprehensive,400 (A); 1300 (T),Agreed,101.93
+Family,Dunedin,Women,The Cooperative Bank Asset Care Vehicle Comprehensive,400 (A); 1250 (T),Agreed,64.23
+Family,Dunedin,Women,Tower Comprehensive Car Insurance,500 (A); 1250 (T),Agreed,82.11
+Family,Dunedin,Women,Trade Me Comprehensive Car Insurance<sup>B</sup>,500 (A); 1000 (T),Agreed,71.42
+Family,Dunedin,Women,TSB Motor Cover Insurance Comprehensive<sup>C</sup>,400 (A); 900 (T),Agreed,96.99
+Family,Dunedin,Women,Warehouse Money Everyday Plus,500 (A); 1250 (T),Agreed,69.49
+Family,Dunedin,Women,Westpac Car Insurance Comprehensive,400 (A); 1100 (T),Market,55.89
+Family,Dunedin,Women,Youi Car Comprehensive,600 (A); 1800 (T),Agreed,78.01

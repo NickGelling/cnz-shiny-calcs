@@ -1,0 +1,621 @@
+Age,City,Gender,Policy,Excess,Value,Premium
+Young,Auckland,Men,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,39.08
+Young,Auckland,Men,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,24.02
+Young,Auckland,Men,AMP Third Party Fire and Theft,1000,Market,56.75
+Young,Auckland,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,39.71
+Young,Auckland,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,31.03
+Young,Auckland,Men,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,42.9
+Young,Auckland,Men,Lantern Insurance Echelon Third Party Fire and Theft,1000,Market,35.54
+Young,Auckland,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,35.25
+Young,Auckland,Men,State Insurance Car Third Party Fire and Theft,850,Agreed,44.63
+Young,Auckland,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,27.6
+Young,Auckland,Men,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,47.45
+Young,Auckland,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,31.54
+Young,Auckland,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,55.82
+Young,Auckland,Men,Warehouse Money Third Party Fire and Theft,1000,Market,51.31
+Young,Auckland,Men,Westpac Car Insurance Third Party Fire and Theft,850,Market,37.89
+Young,Auckland,Men,Youi Car Third Party Fire and Theft,1800,Market,41.83
+Young,Hamilton,Men,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,26.83
+Young,Hamilton,Men,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,20.22
+Young,Hamilton,Men,AMP Third Party Fire and Theft,1000,Market,39.48
+Young,Hamilton,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,29.48
+Young,Hamilton,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,21.1
+Young,Hamilton,Men,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,27.67
+Young,Hamilton,Men,Lantern Insurance Echelon Third Party Fire and Theft,1000,Market,27.72
+Young,Hamilton,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,30.04
+Young,Hamilton,Men,State Insurance Car Third Party Fire and Theft,850,Agreed,30.53
+Young,Hamilton,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,18.48
+Young,Hamilton,Men,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,32.16
+Young,Hamilton,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,23.34
+Young,Hamilton,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,40.23
+Young,Hamilton,Men,Warehouse Money Third Party Fire and Theft,1000,Market,36.8
+Young,Hamilton,Men,Westpac Car Insurance Third Party Fire and Theft,850,Market,31.37
+Young,Hamilton,Men,Youi Car Third Party Fire and Theft,1800,Market,32.12
+Young,Wellington,Men,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,27.55
+Young,Wellington,Men,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,22.68
+Young,Wellington,Men,AMP Third Party Fire and Theft,1000,Market,39.48
+Young,Wellington,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,28.11
+Young,Wellington,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,21.93
+Young,Wellington,Men,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,32.75
+Young,Wellington,Men,Lantern Insurance Echelon Third Party Fire and Theft,1000,Market,27.72
+Young,Wellington,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,26.79
+Young,Wellington,Men,State Insurance Car Third Party Fire and Theft,850,Agreed,33.63
+Young,Wellington,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,19.69
+Young,Wellington,Men,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,33.23
+Young,Wellington,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,22.52
+Young,Wellington,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,38.67
+Young,Wellington,Men,Warehouse Money Third Party Fire and Theft,1000,Market,36.8
+Young,Wellington,Men,Westpac Car Insurance Third Party Fire and Theft,850,Market,32.51
+Young,Wellington,Men,Youi Car Third Party Fire and Theft,1800,Market,27.05
+Young,Christchurch,Men,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,29.13
+Young,Christchurch,Men,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,19.46
+Young,Christchurch,Men,AMP Third Party Fire and Theft,1000,Market,42.18
+Young,Christchurch,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,24.72
+Young,Christchurch,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,19.61
+Young,Christchurch,Men,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,32.81
+Young,Christchurch,Men,Lantern Insurance Echelon Third Party Fire and Theft,1000,Market,27.72
+Young,Christchurch,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,27.75
+Young,Christchurch,Men,State Insurance Car Third Party Fire and Theft,850,Agreed,30.53
+Young,Christchurch,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,18.26
+Young,Christchurch,Men,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,36.43
+Young,Christchurch,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,22.11
+Young,Christchurch,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,39.45
+Young,Christchurch,Men,Warehouse Money Third Party Fire and Theft,1000,Market,39.07
+Young,Christchurch,Men,Westpac Car Insurance Third Party Fire and Theft,850,Market,27.08
+Young,Christchurch,Men,Youi Car Third Party Fire and Theft,1800,Market,37.58
+Young,Dunedin,Men,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,24.45
+Young,Dunedin,Men,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,17.53
+Young,Dunedin,Men,AMP Third Party Fire and Theft,1000,Market,37.05
+Young,Dunedin,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,24.56
+Young,Dunedin,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,19.45
+Young,Dunedin,Men,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,25.77
+Young,Dunedin,Men,Lantern Insurance Echelon Third Party Fire and Theft,1000,Market,27.72
+Young,Dunedin,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,25.63
+Young,Dunedin,Men,State Insurance Car Third Party Fire and Theft,850,Agreed,29.64
+Young,Dunedin,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,18.27
+Young,Dunedin,Men,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,35.01
+Young,Dunedin,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,22.52
+Young,Dunedin,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,32.44
+Young,Dunedin,Men,Warehouse Money Third Party Fire and Theft,1000,Market,34.76
+Young,Dunedin,Men,Westpac Car Insurance Third Party Fire and Theft,850,Market,29.57
+Young,Dunedin,Men,Youi Car Third Party Fire and Theft,1800,Market,25.1
+Young,Auckland,Women,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,35.52
+Young,Auckland,Women,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,23.79
+Young,Auckland,Women,AMP Third Party Fire and Theft,1000,Market,56.75
+Young,Auckland,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,29.77
+Young,Auckland,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,24.5
+Young,Auckland,Women,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,42.9
+Young,Auckland,Women,Lantern Insurance Echelon Third Party Fire and Theft,800,Market,35.54
+Young,Auckland,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,35.25
+Young,Auckland,Women,State Insurance Car Third Party Fire and Theft,850,Agreed,42.47
+Young,Auckland,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,22.08
+Young,Auckland,Women,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,46.18
+Young,Auckland,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,28.07
+Young,Auckland,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,55.82
+Young,Auckland,Women,Warehouse Money Third Party Fire and Theft,1000,Market,51.31
+Young,Auckland,Women,Westpac Car Insurance Third Party Fire and Theft,850,Market,29.18
+Young,Auckland,Women,Youi Car Third Party Fire and Theft,1800,Market,34.92
+Young,Hamilton,Women,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,24.41
+Young,Hamilton,Women,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,20.03
+Young,Hamilton,Women,AMP Third Party Fire and Theft,1000,Market,39.48
+Young,Hamilton,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,22.97
+Young,Hamilton,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,17.39
+Young,Hamilton,Women,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,27.67
+Young,Hamilton,Women,Lantern Insurance Echelon Third Party Fire and Theft,800,Market,27.72
+Young,Hamilton,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,30.04
+Young,Hamilton,Women,State Insurance Car Third Party Fire and Theft,850,Agreed,29.07
+Young,Hamilton,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,15.56
+Young,Hamilton,Women,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,31.31
+Young,Hamilton,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,20.8
+Young,Hamilton,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,40.23
+Young,Hamilton,Women,Warehouse Money Third Party Fire and Theft,1000,Market,36.8
+Young,Hamilton,Women,Westpac Car Insurance Third Party Fire and Theft,850,Market,24.2
+Young,Hamilton,Women,Youi Car Third Party Fire and Theft,1800,Market,26.91
+Young,Wellington,Women,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,25.06
+Young,Wellington,Women,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,22.46
+Young,Wellington,Women,AMP Third Party Fire and Theft,1000,Market,39.48
+Young,Wellington,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,22.06
+Young,Wellington,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,17.99
+Young,Wellington,Women,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,32.75
+Young,Wellington,Women,Lantern Insurance Echelon Third Party Fire and Theft,800,Market,27.72
+Young,Wellington,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,26.79
+Young,Wellington,Women,State Insurance Car Third Party Fire and Theft,850,Agreed,32.05
+Young,Wellington,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,16.3
+Young,Wellington,Women,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,32.35
+Young,Wellington,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,20.08
+Young,Wellington,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,38.67
+Young,Wellington,Women,Warehouse Money Third Party Fire and Theft,1000,Market,36.8
+Young,Wellington,Women,Westpac Car Insurance Third Party Fire and Theft,850,Market,25.07
+Young,Wellington,Women,Youi Car Third Party Fire and Theft,1800,Market,22.79
+Young,Christchurch,Women,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,26.49
+Young,Christchurch,Women,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,19.28
+Young,Christchurch,Women,AMP Third Party Fire and Theft,1000,Market,42.18
+Young,Christchurch,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,19.81
+Young,Christchurch,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,17.03
+Young,Christchurch,Women,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,32.81
+Young,Christchurch,Women,Lantern Insurance Echelon Third Party Fire and Theft,800,Market,27.72
+Young,Christchurch,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,27.75
+Young,Christchurch,Women,State Insurance Car Third Party Fire and Theft,850,Agreed,29.07
+Young,Christchurch,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,15.56
+Young,Christchurch,Women,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,35.46
+Young,Christchurch,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,19.71
+Young,Christchurch,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,39.45
+Young,Christchurch,Women,Warehouse Money Third Party Fire and Theft,1000,Market,39.07
+Young,Christchurch,Women,Westpac Car Insurance Third Party Fire and Theft,850,Market,20.92
+Young,Christchurch,Women,Youi Car Third Party Fire and Theft,1800,Market,31.6
+Young,Dunedin,Women,AA Insurance Third Party Fire and Theft Car Insurance,1050,Agreed,22.25
+Young,Dunedin,Women,AMI Insurance Car Insurance Third Party Fire and Theft,650,Agreed,17.36
+Young,Dunedin,Women,AMP Third Party Fire and Theft,1000,Market,37.05
+Young,Dunedin,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,750,Agreed,19.7
+Young,Dunedin,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,750,Agreed,17.03
+Young,Dunedin,Women,FMG Essential Private Vehicles Third Party Fire and Theft,900,Market,25.77
+Young,Dunedin,Women,Lantern Insurance Echelon Third Party Fire and Theft,800,Market,27.72
+Young,Dunedin,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,750,Agreed<sup>D</sup>,25.63
+Young,Dunedin,Women,State Insurance Car Third Party Fire and Theft,850,Agreed,28.25
+Young,Dunedin,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,750,Agreed,15.56
+Young,Dunedin,Women,Tower Third Party Fire and Theft Cover,1000,Agreed<sup>E</sup>,34.08
+Young,Dunedin,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,1000,Agreed,20.08
+Young,Dunedin,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,700,Agreed<sup>E</sup>,32.44
+Young,Dunedin,Women,Warehouse Money Third Party Fire and Theft,1000,Market,34.76
+Young,Dunedin,Women,Westpac Car Insurance Third Party Fire and Theft,850,Market,22.82
+Young,Dunedin,Women,Youi Car Third Party Fire and Theft,1800,Market,21.1
+Middle,Auckland,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,37.34
+Middle,Auckland,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,30.58
+Middle,Auckland,Men,AMP Third Party Fire and Theft,500,Market,43.01
+Middle,Auckland,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,46.47
+Middle,Auckland,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,38.86
+Middle,Auckland,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,48.52
+Middle,Auckland,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,47.94
+Middle,Auckland,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,47.1
+Middle,Auckland,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,47.76
+Middle,Auckland,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,34.64
+Middle,Auckland,Men,Tower Third Party Fire and Theft Cover,500,Agreed,40.87
+Middle,Auckland,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,26.2
+Middle,Auckland,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,37.89
+Middle,Auckland,Men,Warehouse Money Third Party Fire and Theft,500,Market,41.61
+Middle,Auckland,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,43.02
+Middle,Hamilton,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,25.64
+Middle,Hamilton,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,25.7
+Middle,Hamilton,Men,AMP Third Party Fire and Theft,500,Market,33.96
+Middle,Hamilton,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,40.84
+Middle,Hamilton,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,32.38
+Middle,Hamilton,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,31.39
+Middle,Hamilton,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,40.11
+Middle,Hamilton,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,40.1
+Middle,Hamilton,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,32.65
+Middle,Hamilton,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,28.45
+Middle,Hamilton,Men,Tower Third Party Fire and Theft Cover,500,Agreed,27.75
+Middle,Hamilton,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,19.43
+Middle,Hamilton,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,27.39
+Middle,Hamilton,Men,Warehouse Money Third Party Fire and Theft,500,Market,34.02
+Middle,Hamilton,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,34.67
+Middle,Wellington,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,26.33
+Middle,Wellington,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,28.86
+Middle,Wellington,Men,AMP Third Party Fire and Theft,500,Market,33.96
+Middle,Wellington,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,40.09
+Middle,Wellington,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,32.92
+Middle,Wellington,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,37.1
+Middle,Wellington,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,40.11
+Middle,Wellington,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,35.73
+Middle,Wellington,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,36.01
+Middle,Wellington,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,29.28
+Middle,Wellington,Men,Tower Third Party Fire and Theft Cover,500,Agreed,28.66
+Middle,Wellington,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,18.76
+Middle,Wellington,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,26.34
+Middle,Wellington,Men,Warehouse Money Third Party Fire and Theft,500,Market,34.02
+Middle,Wellington,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,36.01
+Middle,Christchurch,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,27.84
+Middle,Christchurch,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,24.73
+Middle,Christchurch,Men,AMP Third Party Fire and Theft,500,Market,35.31
+Middle,Christchurch,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,38.22
+Middle,Christchurch,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,31.4
+Middle,Christchurch,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,37.17
+Middle,Christchurch,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,40.11
+Middle,Christchurch,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,37.02
+Middle,Christchurch,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,32.65
+Middle,Christchurch,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,28.3
+Middle,Christchurch,Men,Tower Third Party Fire and Theft Cover,500,Agreed,31.41
+Middle,Christchurch,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,18.42
+Middle,Christchurch,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,26.87
+Middle,Christchurch,Men,Warehouse Money Third Party Fire and Theft,500,Market,35.15
+Middle,Christchurch,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,28.13
+Middle,Dunedin,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,23.37
+Middle,Dunedin,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,22.25
+Middle,Dunedin,Men,AMP Third Party Fire and Theft,500,Market,32.75
+Middle,Dunedin,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,38.13
+Middle,Dunedin,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,31.3
+Middle,Dunedin,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,29.24
+Middle,Dunedin,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,40.11
+Middle,Dunedin,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,34.17
+Middle,Dunedin,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,31.73
+Middle,Dunedin,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,28.31
+Middle,Dunedin,Men,Tower Third Party Fire and Theft Cover,500,Agreed,30.19
+Middle,Dunedin,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,18.76
+Middle,Dunedin,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,22.14
+Middle,Dunedin,Men,Warehouse Money Third Party Fire and Theft,500,Market,33
+Middle,Dunedin,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,30.67
+Middle,Auckland,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,36.98
+Middle,Auckland,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,30
+Middle,Auckland,Women,AMP Third Party Fire and Theft,500,Market,43.01
+Middle,Auckland,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,47.17
+Middle,Auckland,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,39.88
+Middle,Auckland,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,48.52
+Middle,Auckland,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,47.94
+Middle,Auckland,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,47.1
+Middle,Auckland,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,45.48
+Middle,Auckland,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,34.99
+Middle,Auckland,Women,Tower Third Party Fire and Theft Cover,500,Agreed,42.28
+Middle,Auckland,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,26.2
+Middle,Auckland,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,37.89
+Middle,Auckland,Women,Warehouse Money Third Party Fire and Theft,500,Market,41.61
+Middle,Auckland,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,43.86
+Middle,Hamilton,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,25.4
+Middle,Hamilton,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,25.21
+Middle,Hamilton,Women,AMP Third Party Fire and Theft,500,Market,33.96
+Middle,Hamilton,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,41.3
+Middle,Hamilton,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,32.96
+Middle,Hamilton,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,31.39
+Middle,Hamilton,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,40.11
+Middle,Hamilton,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,40.1
+Middle,Hamilton,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,31.13
+Middle,Hamilton,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,28.65
+Middle,Hamilton,Women,Tower Third Party Fire and Theft Cover,500,Agreed,28.69
+Middle,Hamilton,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,19.43
+Middle,Hamilton,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,27.39
+Middle,Hamilton,Women,Warehouse Money Third Party Fire and Theft,500,Market,34.02
+Middle,Hamilton,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,35.34
+Middle,Wellington,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,26.08
+Middle,Wellington,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,28.3
+Middle,Wellington,Women,AMP Third Party Fire and Theft,500,Market,33.96
+Middle,Wellington,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,40.52
+Middle,Wellington,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,33.55
+Middle,Wellington,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,37.1
+Middle,Wellington,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,40.11
+Middle,Wellington,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,35.73
+Middle,Wellington,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,34.3
+Middle,Wellington,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,29.49
+Middle,Wellington,Women,Tower Third Party Fire and Theft Cover,500,Agreed,29.64
+Middle,Wellington,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,18.76
+Middle,Wellington,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,26.34
+Middle,Wellington,Women,Warehouse Money Third Party Fire and Theft,500,Market,34.02
+Middle,Wellington,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,36.71
+Middle,Christchurch,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,27.57
+Middle,Christchurch,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,24.26
+Middle,Christchurch,Women,AMP Third Party Fire and Theft,500,Market,35.31
+Middle,Christchurch,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,38.57
+Middle,Christchurch,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,31.91
+Middle,Christchurch,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,37.17
+Middle,Christchurch,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,40.11
+Middle,Christchurch,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,37.02
+Middle,Christchurch,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,31.13
+Middle,Christchurch,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,28.5
+Middle,Christchurch,Women,Tower Third Party Fire and Theft Cover,500,Agreed,32.49
+Middle,Christchurch,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,18.42
+Middle,Christchurch,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,26.87
+Middle,Christchurch,Women,Warehouse Money Third Party Fire and Theft,500,Market,35.15
+Middle,Christchurch,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,28.67
+Middle,Dunedin,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,23.15
+Middle,Dunedin,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,21.83
+Middle,Dunedin,Women,AMP Third Party Fire and Theft,500,Market,32.75
+Middle,Dunedin,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,38.48
+Middle,Dunedin,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,31.81
+Middle,Dunedin,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,29.24
+Middle,Dunedin,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,40.11
+Middle,Dunedin,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,34.17
+Middle,Dunedin,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,30.21
+Middle,Dunedin,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,28.5
+Middle,Dunedin,Women,Tower Third Party Fire and Theft Cover,500,Agreed,31.22
+Middle,Dunedin,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,18.76
+Middle,Dunedin,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,22.14
+Middle,Dunedin,Women,Warehouse Money Third Party Fire and Theft,500,Market,33
+Middle,Dunedin,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,31.27
+Older,Auckland,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,34.42
+Older,Auckland,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,25.45
+Older,Auckland,Men,AMP Third Party Fire and Theft,500,Market,38.42
+Older,Auckland,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,37.15
+Older,Auckland,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,31.05
+Older,Auckland,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,44.1
+Older,Auckland,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,38.38
+Older,Auckland,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,41.37
+Older,Auckland,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,51.15
+Older,Auckland,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,27.98
+Older,Auckland,Men,Tower Third Party Fire and Theft Cover,500,Agreed,37.72
+Older,Auckland,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,22.14
+Older,Auckland,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,33.54
+Older,Auckland,Men,Warehouse Money Third Party Fire and Theft,500,Market,37.36
+Older,Auckland,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,33.06
+Older,Auckland,Men,Youi Car Third Party Fire and Theft,600,Market,33.12
+Older,Hamilton,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,23.66
+Older,Hamilton,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,21.41
+Older,Hamilton,Men,AMP Third Party Fire and Theft,500,Market,29.37
+Older,Hamilton,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,31.55
+Older,Hamilton,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,24.81
+Older,Hamilton,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,28.5
+Older,Hamilton,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,30.54
+Older,Hamilton,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,35.23
+Older,Hamilton,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,34.96
+Older,Hamilton,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,21.97
+Older,Hamilton,Men,Tower Third Party Fire and Theft Cover,500,Agreed,25.63
+Older,Hamilton,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,16.45
+Older,Hamilton,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,24.28
+Older,Hamilton,Men,Warehouse Money Third Party Fire and Theft,500,Market,29.76
+Older,Hamilton,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,26.93
+Older,Hamilton,Men,Youi Car Third Party Fire and Theft,600,Market,25.82
+Older,Wellington,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,24.29
+Older,Wellington,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,24.02
+Older,Wellington,Men,AMP Third Party Fire and Theft,500,Market,29.37
+Older,Wellington,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,30.8
+Older,Wellington,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,25.32
+Older,Wellington,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,33.7
+Older,Wellington,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,30.54
+Older,Wellington,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,31.41
+Older,Wellington,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,38.54
+Older,Wellington,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,22.77
+Older,Wellington,Men,Tower Third Party Fire and Theft Cover,500,Agreed,26.48
+Older,Wellington,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,15.88
+Older,Wellington,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,23.35
+Older,Wellington,Men,Warehouse Money Third Party Fire and Theft,500,Market,29.76
+Older,Wellington,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,27.93
+Older,Wellington,Men,Youi Car Third Party Fire and Theft,600,Market,21.68
+Older,Christchurch,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,25.68
+Older,Christchurch,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,20.61
+Older,Christchurch,Men,AMP Third Party Fire and Theft,500,Market,30.72
+Older,Christchurch,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,28.94
+Older,Christchurch,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,23.86
+Older,Christchurch,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,33.76
+Older,Christchurch,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,30.54
+Older,Christchurch,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,32.53
+Older,Christchurch,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,34.96
+Older,Christchurch,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,21.83
+Older,Christchurch,Men,Tower Third Party Fire and Theft Cover,500,Agreed,29
+Older,Christchurch,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,15.6
+Older,Christchurch,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,23.81
+Older,Christchurch,Men,Warehouse Money Third Party Fire and Theft,500,Market,30.9
+Older,Christchurch,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,22.83
+Older,Christchurch,Men,Youi Car Third Party Fire and Theft,600,Market,29.43
+Older,Dunedin,Men,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,21.57
+Older,Dunedin,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,18.56
+Older,Dunedin,Men,AMP Third Party Fire and Theft,500,Market,28.16
+Older,Dunedin,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,28.85
+Older,Dunedin,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,23.76
+Older,Dunedin,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,26.55
+Older,Dunedin,Men,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,30.54
+Older,Dunedin,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,30.04
+Older,Dunedin,Men,State Insurance Car Third Party Fire and Theft,400,Agreed,33.95
+Older,Dunedin,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,21.83
+Older,Dunedin,Men,Tower Third Party Fire and Theft Cover,500,Agreed,27.88
+Older,Dunedin,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,15.88
+Older,Dunedin,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,19.64
+Older,Dunedin,Men,Warehouse Money Third Party Fire and Theft,500,Market,28.74
+Older,Dunedin,Men,Westpac Car Insurance Third Party Fire and Theft,400,Market,24.89
+Older,Dunedin,Men,Youi Car Third Party Fire and Theft,600,Market,20.49
+Older,Auckland,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,34.44
+Older,Auckland,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,25.21
+Older,Auckland,Women,AMP Third Party Fire and Theft,500,Market,38.42
+Older,Auckland,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,38.29
+Older,Auckland,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,31.75
+Older,Auckland,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,44.1
+Older,Auckland,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,38.38
+Older,Auckland,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,41.37
+Older,Auckland,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,48.71
+Older,Auckland,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,28.59
+Older,Auckland,Women,Tower Third Party Fire and Theft Cover,500,Agreed,40.6
+Older,Auckland,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,22.59
+Older,Auckland,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,33.54
+Older,Auckland,Women,Warehouse Money Third Party Fire and Theft,500,Market,37.36
+Older,Auckland,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,33.06
+Older,Auckland,Women,Youi Car Third Party Fire and Theft,600,Market,32.87
+Older,Hamilton,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,23.67
+Older,Hamilton,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,21.21
+Older,Hamilton,Women,AMP Third Party Fire and Theft,500,Market,29.37
+Older,Hamilton,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,32.29
+Older,Hamilton,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,25.21
+Older,Hamilton,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,28.5
+Older,Hamilton,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,30.54
+Older,Hamilton,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,35.23
+Older,Hamilton,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,33.32
+Older,Hamilton,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,22.31
+Older,Hamilton,Women,Tower Third Party Fire and Theft Cover,500,Agreed,27.56
+Older,Hamilton,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,16.78
+Older,Hamilton,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,24.28
+Older,Hamilton,Women,Warehouse Money Third Party Fire and Theft,500,Market,29.76
+Older,Hamilton,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,26.93
+Older,Hamilton,Women,Youi Car Third Party Fire and Theft,600,Market,25.71
+Older,Wellington,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,24.3
+Older,Wellington,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,23.79
+Older,Wellington,Women,AMP Third Party Fire and Theft,500,Market,29.37
+Older,Wellington,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,31.49
+Older,Wellington,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,25.75
+Older,Wellington,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,33.7
+Older,Wellington,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,30.54
+Older,Wellington,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,31.41
+Older,Wellington,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,36.71
+Older,Wellington,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,23.14
+Older,Wellington,Women,Tower Third Party Fire and Theft Cover,500,Agreed,28.47
+Older,Wellington,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,16.2
+Older,Wellington,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,23.35
+Older,Wellington,Women,Warehouse Money Third Party Fire and Theft,500,Market,29.76
+Older,Wellington,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,27.93
+Older,Wellington,Women,Youi Car Third Party Fire and Theft,600,Market,21.64
+Older,Christchurch,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,25.7
+Older,Christchurch,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,20.41
+Older,Christchurch,Women,AMP Third Party Fire and Theft,500,Market,30.72
+Older,Christchurch,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,29.5
+Older,Christchurch,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,24.22
+Older,Christchurch,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,33.76
+Older,Christchurch,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,30.54
+Older,Christchurch,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,32.53
+Older,Christchurch,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,33.32
+Older,Christchurch,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,22.15
+Older,Christchurch,Women,Tower Third Party Fire and Theft Cover,500,Agreed,31.2
+Older,Christchurch,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,15.91
+Older,Christchurch,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,23.81
+Older,Christchurch,Women,Warehouse Money Third Party Fire and Theft,500,Market,30.9
+Older,Christchurch,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,22.83
+Older,Christchurch,Women,Youi Car Third Party Fire and Theft,600,Market,29.01
+Older,Dunedin,Women,AA Insurance Third Party Fire and Theft Car Insurance,500,Agreed,21.58
+Older,Dunedin,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400,Agreed,18.38
+Older,Dunedin,Women,AMP Third Party Fire and Theft,500,Market,28.16
+Older,Dunedin,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400,Agreed,29.41
+Older,Dunedin,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400,Agreed,24.12
+Older,Dunedin,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400,Market,26.55
+Older,Dunedin,Women,Lantern Insurance Echelon Third Party Fire and Theft,400,Market,30.54
+Older,Dunedin,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500,Agreed<sup>D</sup>,30.04
+Older,Dunedin,Women,State Insurance Car Third Party Fire and Theft,400,Agreed,32.33
+Older,Dunedin,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400,Agreed,22.16
+Older,Dunedin,Women,Tower Third Party Fire and Theft Cover,500,Agreed,29.99
+Older,Dunedin,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500,Agreed,16.2
+Older,Dunedin,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400,Agreed,19.64
+Older,Dunedin,Women,Warehouse Money Third Party Fire and Theft,500,Market,28.74
+Older,Dunedin,Women,Westpac Car Insurance Third Party Fire and Theft,400,Market,24.89
+Older,Dunedin,Women,Youi Car Third Party Fire and Theft,600,Market,20.5
+Family,Auckland,Men,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,49.57
+Family,Auckland,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,33.37
+Family,Auckland,Men,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,61.42
+Family,Auckland,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,61.01
+Family,Auckland,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,50.95
+Family,Auckland,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,52.06
+Family,Auckland,Men,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,59.17
+Family,Auckland,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,61.56
+Family,Auckland,Men,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,66.68
+Family,Auckland,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,45.31
+Family,Auckland,Men,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,50.46
+Family,Auckland,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,42.86
+Family,Auckland,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,56.08
+Family,Auckland,Men,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,60.04
+Family,Auckland,Men,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,48.32
+Family,Hamilton,Men,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,33.96
+Family,Hamilton,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,28.03
+Family,Hamilton,Men,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,52.37
+Family,Hamilton,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,54.11
+Family,Hamilton,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,42.93
+Family,Hamilton,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,33.75
+Family,Hamilton,Men,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,51.35
+Family,Hamilton,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,52.37
+Family,Hamilton,Men,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,45.48
+Family,Hamilton,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,37.65
+Family,Hamilton,Men,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,34.18
+Family,Hamilton,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,31.64
+Family,Hamilton,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,40.42
+Family,Hamilton,Men,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,52.45
+Family,Hamilton,Men,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,38.63
+Family,Wellington,Men,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,34.88
+Family,Wellington,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,31.48
+Family,Wellington,Men,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,52.37
+Family,Wellington,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,53.19
+Family,Wellington,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,43.6
+Family,Wellington,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,39.85
+Family,Wellington,Men,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,51.35
+Family,Wellington,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,46.64
+Family,Wellington,Men,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,50.17
+Family,Wellington,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,38.67
+Family,Wellington,Men,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,35.32
+Family,Wellington,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,30.52
+Family,Wellington,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,38.85
+Family,Wellington,Men,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,52.45
+Family,Wellington,Men,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,40.15
+Family,Christchurch,Men,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,36.89
+Family,Christchurch,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,26.97
+Family,Christchurch,Men,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,53.72
+Family,Christchurch,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,50.9
+Family,Christchurch,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,41.71
+Family,Christchurch,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,39.93
+Family,Christchurch,Men,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,51.35
+Family,Christchurch,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,48.32
+Family,Christchurch,Men,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,45.48
+Family,Christchurch,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,37.47
+Family,Christchurch,Men,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,38.72
+Family,Christchurch,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,29.96
+Family,Christchurch,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,39.64
+Family,Christchurch,Men,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,53.58
+Family,Christchurch,Men,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,31.39
+Family,Dunedin,Men,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,30.93
+Family,Dunedin,Men,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,24.26
+Family,Dunedin,Men,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,51.16
+Family,Dunedin,Men,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,50.79
+Family,Dunedin,Men,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,41.58
+Family,Dunedin,Men,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,31.46
+Family,Dunedin,Men,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,51.35
+Family,Dunedin,Men,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,44.59
+Family,Dunedin,Men,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,44.18
+Family,Dunedin,Men,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,37.48
+Family,Dunedin,Men,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,37.21
+Family,Dunedin,Men,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,30.52
+Family,Dunedin,Men,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,32.59
+Family,Dunedin,Men,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,51.43
+Family,Dunedin,Men,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,34.24
+Family,Auckland,Women,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,49.57
+Family,Auckland,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,33.37
+Family,Auckland,Women,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,61.42
+Family,Auckland,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,61.01
+Family,Auckland,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,50.95
+Family,Auckland,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,52.06
+Family,Auckland,Women,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,59.17
+Family,Auckland,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,61.56
+Family,Auckland,Women,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,66.68
+Family,Auckland,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,45.31
+Family,Auckland,Women,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,50.46
+Family,Auckland,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,42.86
+Family,Auckland,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,56.08
+Family,Auckland,Women,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,60.04
+Family,Auckland,Women,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,48.32
+Family,Hamilton,Women,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,33.96
+Family,Hamilton,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,28.03
+Family,Hamilton,Women,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,52.37
+Family,Hamilton,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,54.11
+Family,Hamilton,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,42.93
+Family,Hamilton,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,33.75
+Family,Hamilton,Women,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,51.35
+Family,Hamilton,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,52.37
+Family,Hamilton,Women,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,45.48
+Family,Hamilton,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,37.65
+Family,Hamilton,Women,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,34.18
+Family,Hamilton,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,31.64
+Family,Hamilton,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,40.42
+Family,Hamilton,Women,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,52.45
+Family,Hamilton,Women,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,38.63
+Family,Wellington,Women,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,34.88
+Family,Wellington,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,31.48
+Family,Wellington,Women,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,52.37
+Family,Wellington,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,53.19
+Family,Wellington,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,43.6
+Family,Wellington,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,39.85
+Family,Wellington,Women,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,51.35
+Family,Wellington,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,46.64
+Family,Wellington,Women,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,50.17
+Family,Wellington,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,38.67
+Family,Wellington,Women,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,35.32
+Family,Wellington,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,30.52
+Family,Wellington,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,38.85
+Family,Wellington,Women,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,52.45
+Family,Wellington,Women,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,40.15
+Family,Christchurch,Women,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,36.89
+Family,Christchurch,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,26.97
+Family,Christchurch,Women,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,53.72
+Family,Christchurch,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,50.9
+Family,Christchurch,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,41.71
+Family,Christchurch,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,39.93
+Family,Christchurch,Women,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,51.35
+Family,Christchurch,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,48.32
+Family,Christchurch,Women,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,45.48
+Family,Christchurch,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,37.47
+Family,Christchurch,Women,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,38.72
+Family,Christchurch,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,29.96
+Family,Christchurch,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,39.64
+Family,Christchurch,Women,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,53.58
+Family,Christchurch,Women,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,31.39
+Family,Dunedin,Women,AA Insurance Third Party Fire and Theft Car Insurance,500 (A); 1050 (T),Agreed,30.93
+Family,Dunedin,Women,AMI Insurance Car Insurance Third Party Fire and Theft,400 (A); 900 (T),Agreed,24.26
+Family,Dunedin,Women,AMP Third Party Fire and Theft,500 (A); 1250 (T),Market,51.16
+Family,Dunedin,Women,ASB Bank Private Motor Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,50.79
+Family,Dunedin,Women,BNZ PremierCare Vehicle Insurance Third Party Fire and Theft,400 (A); 1250 (T),Agreed,41.58
+Family,Dunedin,Women,FMG Essential Private Vehicles Third Party Fire and Theft,400 (A); 1200 (T),Market,31.46
+Family,Dunedin,Women,Lantern Insurance Echelon Third Party Fire and Theft,400 (A); 1250 (T),Market,51.35
+Family,Dunedin,Women,MAS Insurance Motor Vehicle Third Party Fire and Theft,500 (A); 1150 (T),Agreed<sup>D</sup>,44.59
+Family,Dunedin,Women,State Insurance Car Third Party Fire and Theft,400 (A); 1300 (T),Agreed,44.18
+Family,Dunedin,Women,The Co-operative Bank Asset Care Vehicle Third Party Fire and Theft,400 (A); 1250 (T),Agreed,37.48
+Family,Dunedin,Women,Tower Third Party Fire and Theft Cover,500 (A); 1250 (T),Agreed,37.21
+Family,Dunedin,Women,Trade Me Your Third Party Car with Fire and Theft<sup>B</sup>,500 (A); 1000 (T),Agreed,30.52
+Family,Dunedin,Women,TSB Motor Vehicle Insurance Third Party Fire and Theft<sup>C</sup>,400 (A); 900 (T),Agreed,32.59
+Family,Dunedin,Women,Warehouse Money Third Party Fire and Theft,500 (A); 1250 (T),Market,51.43
+Family,Dunedin,Women,Westpac Car Insurance Third Party Fire and Theft,400 (A); 1100 (T),Market,34.24
