@@ -1,0 +1,12 @@
+name: UFB_calculator
+title: UFB_calculator
+username:
+account: consumertest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 674404
+bundleId: 1915259
+url: https://consumertest.shinyapps.io/UFB_calculator/
+when: 1551734438.78808
+asMultiple: FALSE
+asStatic: FALSE

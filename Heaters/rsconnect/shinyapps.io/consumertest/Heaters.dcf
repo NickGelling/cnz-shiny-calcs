@@ -1,0 +1,12 @@
+name: Heaters
+title: Heaters
+username:
+account: consumertest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 767833
+bundleId: 1918590
+url: https://consumertest.shinyapps.io/Heaters/
+when: 1551835212.41357
+asMultiple: FALSE
+asStatic: FALSE
